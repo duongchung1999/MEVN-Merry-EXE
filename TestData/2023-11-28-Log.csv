@@ -1,0 +1,4 @@
+﻿TestID,SN,Time,Result,,,,测试项目,手动开机,Check_Test_Flag,Check_AST1220_FW_Version,Check_KL520_FW_Version,Write_SN,Read_SN,Get_Camera_SN,Read_MT9050_FW,Check_4_Mic,FOV360_image,CheckVideoDevices,Write_Test_Flag2,,,,单位,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,,,,数值下限,N/A,1,P1.23.00,v7.7.22.NV12_192,N/A,N/A,N/A,P1.23.00,N/A,N/A,N/A,N/A,,,,数值上限,N/A,2,P1.23.00,v7.7.22.NV12_192,N/A,N/A,N/A,P1.23.00,N/A,N/A,N/A,N/A,
+,TE_BZP_EN_TEST,02: 30: 57,False,True,5,,,,,,,,,,,
+,TE_BZP_EN_TEST,02: 54: 15,False,False,,,,,,,,,,,,
+,TE_BZP_EN_TEST,02: 55: 46,False,True,5,P1.23.00,v6.6.21.NV12_192,Exception has been thrown by the target of an invocation. False,,,,,,,,

@@ -1,0 +1,8 @@
+[18:14:51]"dongleAnt1Ch1"
+[18:14:51]System.DllNotFoundException: Unable to load DLL '.\hostapi_vmi.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+   at SCPI.avnera.AvDllInitialize()
+   at SCPI.avnera.Initiallize() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\MerryDll\avnera.cs:line 33
+   at SCPI.avnera.Main(String[] args) in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\MerryDll\avnera.cs:line 84
+   at MerryDllFramework.MerryDll.SetRFChannel(String vid, String pid, String ch, String channel) in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\MerryDll\MerryDll.cs:line 1074
+   at MerryDllFramework.MerryDll.<LoadTestitem>b__40_30() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\MerryDll\MerryDll.cs:line 217
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)

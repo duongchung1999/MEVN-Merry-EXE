@@ -1,0 +1,185 @@
+[14:16:06]"PowerOn"
+[14:16:06]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[14:16:23]"PowerOn"
+[14:16:23]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[14:16:34]"PowerOn"
+[14:16:34]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[14:16:51]"PowerOn"
+[14:16:51]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[14:17:10]"PowerOn"
+[14:17:10]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[16:43:26]"PowerOn"
+[16:43:27]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[16:44:22]"PowerOn"
+[16:44:22]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[16:45:01]"PowerOn"
+[16:45:01]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[16:45:13]"PowerOn"
+[16:45:13]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[16:58:07]"PowerOn"
+[16:58:07]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[16:58:34]"PowerOn"
+[16:58:34]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[16:58:46]"PowerOn"
+[16:58:46]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[16:58:57]"PowerOn"
+[16:58:57]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[17:05:18]"PowerOn"
+[17:05:18]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[17:10:20]"PowerOn"
+[17:10:20]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[17:10:48]"PowerOn"
+[17:10:48]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[17:15:15]"PowerOn"
+[17:15:15]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[17:15:25]"PowerOn"
+[17:15:25]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[17:15:52]"PowerOn"
+[17:15:52]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[17:28:33]"PowerOn"
+[17:28:33]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[17:28:35]"PowerOn"
+[17:28:35]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[17:31:12]"PowerOn"
+[17:31:12]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[17:31:26]"PowerOn"
+[17:31:26]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[17:36:49]"PowerOn"
+[17:36:49]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[17:44:47]"PowerOn"
+[17:44:47]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[17:44:54]"PowerOn"
+[17:44:54]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[17:46:18]"PowerOn"
+[17:46:18]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[17:51:19]"PowerOn"
+[17:51:19]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[17:51:58]"PowerOn"
+[17:51:58]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[17:59:15]"PowerOn"
+[17:59:15]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[18:10:47]"PowerOn"
+[18:10:47]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[18:10:52]"PowerOn"
+[18:10:52]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[18:12:26]"PowerOn"
+[18:12:26]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[18:13:04]"PowerOn"
+[18:13:04]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[18:13:11]"PowerOn"
+[18:13:11]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[18:13:34]"PowerOn"
+[18:13:34]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)
+[18:14:36]"PowerOn"
+[18:14:36]System.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.MerryDll.PowerOn() in E:\2. MEVNSW\1_SourceCode\4_HPX\HDT655\SRC\1. Repair\HDT655\MerryDll\MerryDll.cs:line 206
+   at SWDevelopKit.Testitem.TestitemManager.<>c__DisplayClass19_0.<Add>b__0()
+   at SWDevelopKit.Testitem.TestitemManager.Invoke(Object cmd)

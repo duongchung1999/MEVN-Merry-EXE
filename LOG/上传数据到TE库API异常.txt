@@ -1,0 +1,208 @@
+10/13/2023 1:55:52 PM
+{"modelValue":"HDT647","SN":"TE_BZP_EN_TEST","Result":"False","Station":"T2.41","workorders":"000000000000","MachineName":"VNML04OF-000406","TestTime":"5.18","TestLog":"進電子狗DFU模式,P,True, , #檢查電子狗固件版本,P,V3.0.1.12,V3.0.1.12,V3.0.1.12#检测電子狗藍牙地址,P,40589977BEAD, , #進入耳机模式,P,True, , #檢查耳機固件,F,FalseSystem.Exception: Change to Remote fail     at AWHID.AW_HID_OTA.setRemoteMode(Boolean is_remote)     at AWHID.AW_HID_OTA.AW_GET_CUST_VERSION(Boolean is_headset  String name)     at MerryDllFramework.MerryDll.ReadFW(),V3.0.1.12,V3.0.1.12#打開耳機燈光測試模式,F,, , #打開耳機藍燈,F,, , #打開耳機綠燈,F,, , #關閉燈光,F,, , #按下耳機靜音鍵,F,, , #按下耳機減音鍵,F,, , #按下耳機加音鍵,F,, , #關閉耳機燈光測試模式,F,, , #进入電子狗模式,F,, , #退出电子狗DFU模式,F,True, , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/13/2023 2:00:06 PM
+{"modelValue":"HDT647","SN":"TE_BZP_EN_TEST","Result":"False","Station":"T2.41","workorders":"000000000000","MachineName":"VNML04OF-000406","TestTime":"5.18","TestLog":"進電子狗DFU模式,P,True, , #檢查電子狗固件版本,P,V3.0.1.12,V3.0.1.12,V3.0.1.12#检测電子狗藍牙地址,P,40589977BEAD, , #進入耳机模式,P,True, , #檢查耳機固件,F,FalseSystem.Exception: Change to Remote fail     at AWHID.AW_HID_OTA.setRemoteMode(Boolean is_remote)     at AWHID.AW_HID_OTA.AW_GET_CUST_VERSION(Boolean is_headset  String name)     at MerryDllFramework.MerryDll.ReadFW(),V3.0.1.12,V3.0.1.12#打開耳機燈光測試模式,F,, , #打開耳機藍燈,F,, , #打開耳機綠燈,F,, , #關閉燈光,F,, , #按下耳機靜音鍵,F,, , #按下耳機減音鍵,F,, , #按下耳機加音鍵,F,, , #關閉耳機燈光測試模式,F,, , #进入電子狗模式,F,, , #退出电子狗DFU模式,F,True, , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/13/2023 2:00:17 PM
+{"modelValue":"HDT647","SN":"TE_BZP_EN_TEST","Result":"False","Station":"T2.41","workorders":"000000000000","MachineName":"VNML04OF-000406","TestTime":"5.72","TestLog":"進電子狗DFU模式,P,True, , #檢查電子狗固件版本,F,FalseSystem.Exception: Change to Remote fail     at AWHID.AW_HID_OTA.setRemoteMode(Boolean is_remote)     at AWHID.AW_HID_OTA.AW_GET_CUST_VERSION(Boolean is_headset  String name)     at MerryDllFramework.MerryDll.ReadFW(),V3.0.1.12,V3.0.1.12#检测電子狗藍牙地址,F,, , #進入耳机模式,F,, , #檢查耳機固件,F,,V3.0.1.12,V3.0.1.12#打開耳機燈光測試模式,F,, , #打開耳機藍燈,F,, , #打開耳機綠燈,F,, , #關閉燈光,F,, , #按下耳機靜音鍵,F,, , #按下耳機減音鍵,F,, , #按下耳機加音鍵,F,, , #關閉耳機燈光測試模式,F,, , #进入電子狗模式,F,, , #退出电子狗DFU模式,F,True, , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/13/2023 2:00:28 PM
+{"modelValue":"HDT647","SN":"TE_BZP_EN_TEST","Result":"False","Station":"T2.41","workorders":"000000000000","MachineName":"VNML04OF-000406","TestTime":"4.86","TestLog":"進電子狗DFU模式,P,True, , #檢查電子狗固件版本,F,FalseSystem.Exception: Change to Remote fail     at AWHID.AW_HID_OTA.setRemoteMode(Boolean is_remote)     at AWHID.AW_HID_OTA.AW_GET_CUST_VERSION(Boolean is_headset  String name)     at MerryDllFramework.MerryDll.ReadFW(),V3.0.1.12,V3.0.1.12#检测電子狗藍牙地址,F,, , #進入耳机模式,F,, , #檢查耳機固件,F,,V3.0.1.12,V3.0.1.12#打開耳機燈光測試模式,F,, , #打開耳機藍燈,F,, , #打開耳機綠燈,F,, , #關閉燈光,F,, , #按下耳機靜音鍵,F,, , #按下耳機減音鍵,F,, , #按下耳機加音鍵,F,, , #關閉耳機燈光測試模式,F,, , #进入電子狗模式,F,, , #退出电子狗DFU模式,F,True, , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/13/2023 2:26:49 PM
+{"modelValue":"HDT647","SN":"TE_BZP_EN_TEST","Result":"False","Station":"T2.41","workorders":"000000000000","MachineName":"VNML04OF-000406","TestTime":"5.52","TestLog":"進電子狗DFU模式,P,True, , #檢查電子狗固件版本,P,V3.0.1.12,V3.0.1.12,V3.0.1.12#检测電子狗藍牙地址,P,40589977BECF, , #進入耳机模式,P,True, , #檢查耳機固件,P,V3.0.1.12,V3.0.1.12,V3.0.1.12#打開耳機燈光測試模式,P,True, , #打開耳機藍燈,F,FalseSystem.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.     at System.Collections.Generic.Dictionary`2.get_Item(TKey key)     at MerryDllFramework.MerryDll.LEDTest(Int32 index), , #打開耳機綠燈,F,, , #關閉燈光,F,, , #按下耳機靜音鍵,F,, , #按下耳機減音鍵,F,, , #按下耳機加音鍵,F,, , #關閉耳機燈光測試模式,F,, , #进入電子狗模式,F,, , #退出电子狗DFU模式,F,True, , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/19/2023 4:37:00 PM
+{"modelValue":"HDT647","SN":"","Result":"False","Station":"STM32","workorders":"","MachineName":"VNML04OF-000406","TestTime":"31.52","TestLog":"VolTest,F,False COMPORT ERROR  COM13  Access to the port  COM13  is denied., , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/19/2023 4:38:41 PM
+{"modelValue":"HDT647","SN":"","Result":"False","Station":"STM32","workorders":"","MachineName":"VNML04OF-000406","TestTime":"1.23","TestLog":"VolTest,F,False COMPORT ERROR  COM13  Index was outside the bounds of the array., , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/19/2023 4:40:41 PM
+{"modelValue":"HDT647","SN":"","Result":"False","Station":"STM32","workorders":"","MachineName":"VNML04OF-000406","TestTime":"1.28","TestLog":"VolTest,F,False COMPORT ERROR  COM13  Index was outside the bounds of the array., , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/19/2023 4:40:45 PM
+{"modelValue":"HDT647","SN":"","Result":"False","Station":"STM32","workorders":"","MachineName":"VNML04OF-000406","TestTime":"1.19","TestLog":"VolTest,F,False COMPORT ERROR  COM13  Index was outside the bounds of the array., , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/19/2023 4:40:46 PM
+{"modelValue":"HDT647","SN":"","Result":"False","Station":"STM32","workorders":"","MachineName":"VNML04OF-000406","TestTime":"1.25","TestLog":"VolTest,F,False COMPORT ERROR  COM13  Index was outside the bounds of the array., , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/19/2023 4:41:12 PM
+{"modelValue":"HDT647","SN":"","Result":"False","Station":"STM32","workorders":"","MachineName":"VNML04OF-000406","TestTime":"11.82","TestLog":"VolTest,F,False COMPORT ERROR  COM13  Index was outside the bounds of the array., , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/19/2023 4:41:22 PM
+{"modelValue":"HDT647","SN":"","Result":"False","Station":"STM32","workorders":"","MachineName":"VNML04OF-000406","TestTime":"2.44","TestLog":"VolTest,F,False COMPORT ERROR  COM13  Index was outside the bounds of the array., , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/19/2023 4:43:54 PM
+{"modelValue":"HDT647","SN":"","Result":"False","Station":"STM32","workorders":"","MachineName":"VNML04OF-000406","TestTime":"0.26","TestLog":"VolTest,F,False COMPORT ERROR  COM13  The port  COM13  does not exist., , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/19/2023 4:43:56 PM
+{"modelValue":"HDT647","SN":"","Result":"False","Station":"STM32","workorders":"","MachineName":"VNML04OF-000406","TestTime":"0.22","TestLog":"VolTest,F,False COMPORT ERROR  COM13  The port  COM13  does not exist., , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/19/2023 4:44:12 PM
+{"modelValue":"HDT647","SN":"","Result":"False","Station":"STM32","workorders":"","MachineName":"VNML04OF-000406","TestTime":"0.20","TestLog":"VolTest,F,False COMPORT ERROR  COM13  The port  COM13  does not exist., , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/19/2023 4:44:13 PM
+{"modelValue":"HDT647","SN":"","Result":"False","Station":"STM32","workorders":"","MachineName":"VNML04OF-000406","TestTime":"0.22","TestLog":"VolTest,F,False COMPORT ERROR  COM13  The port  COM13  does not exist., , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/19/2023 4:46:30 PM
+{"modelValue":"HDT647","SN":"","Result":"False","Station":"STM32","workorders":"","MachineName":"VNML04OF-000406","TestTime":"51.84","TestLog":"VolTest,F,0.15, , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/19/2023 4:55:14 PM
+{"modelValue":"HDT647","SN":"","Result":"False","Station":"STM32","workorders":"","MachineName":"VNML04OF-000406","TestTime":"27.17","TestLog":"VolTest,F,0.04, , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/19/2023 4:55:40 PM
+{"modelValue":"HDT647","SN":"","Result":"False","Station":"STM32","workorders":"","MachineName":"VNML04OF-000406","TestTime":"4.66","TestLog":"VolTest,F,0.05, , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/19/2023 5:08:00 PM
+{"modelValue":"HDT647","SN":"","Result":"False","Station":"STM32","workorders":"","MachineName":"VNML04OF-000406","TestTime":"3.01","TestLog":"VolTest,F,0.01, , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/19/2023 5:11:31 PM
+{"modelValue":"HDT647","SN":"","Result":"False","Station":"STM32","workorders":"","MachineName":"VNML04OF-000406","TestTime":"12.82","TestLog":"VolTest,F,False COMPORT ERROR  COM14  The port  COM13  does not exist., , #"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/20/2023 12:45:24 PM
+{"modelValue":"HDT627-SMT","SN":"2342ME000P22","Result":"False","Station":"T1.11","workorders":"","MachineName":"VNML04OF-000406","TestTime":"8.61","TestLog":"UID,P,2342ME000P22, , #ScanBinCode,F,False, , #PowerOnCurrentLM,F,,1,25#getFwByHeadset,F,,V2.0.6,V2.0.6#Light_Bar_On_CurrentLM,F,,15,35#All_led_off_CurrentLM,F,,1,6#VsysLmTP202,F,,4.37,4.83#ResetLmTP72,F,,1.62,1.98#VdcLmTP73,F,,4.5,5#Z1_led_rLmTP208,F,,1,3#Z1_led_gLmTP207,F,,1,3#Z2_led_rLmTP211,F,,1,3#Z2_led_gLmTP210,F,,1,3#Z1_led_bLmTP209,F,,1,3#Z2_led_bLmTP212,F,,1,3#MicBiasoLmbTP98,F,,2.2,2.6#NtcLmbTP216,F,,-0.1,0.1#Spk_lLmPad18,F,,67,95#Spk_rLmPad16,F,,67,95#Fast_chargeLM,F,,370,500#TrickleChargeLm,F,,4,12#aStopCharge_4V25LMB,F,,0,5#OvpLM,F,,-2,3#OcpLM,F,,150,250#WriteLEDBinCodeBySMT,F,, , #ReadLEDBinCode,F,, , #SetPCBASNByHeadSet,F,, , #GetPCBASNByHeadSet,F,, , #Off_Mode_currentLM,F,,0.1,10#"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/20/2023 12:46:57 PM
+{"modelValue":"HDT627-SMT","SN":"2342ME000P22","Result":"False","Station":"T1.11","workorders":"","MachineName":"VNML04OF-000406","TestTime":"20.34","TestLog":"UID,P,2342ME000P22, , #ScanBinCode,F,False, , #PowerOnCurrentLM,F,,1,25#getFwByHeadset,F,,V2.0.6,V2.0.6#Light_Bar_On_CurrentLM,F,,15,35#All_led_off_CurrentLM,F,,1,6#VsysLmTP202,F,,4.37,4.83#ResetLmTP72,F,,1.62,1.98#VdcLmTP73,F,,4.5,5#Z1_led_rLmTP208,F,,1,3#Z1_led_gLmTP207,F,,1,3#Z2_led_rLmTP211,F,,1,3#Z2_led_gLmTP210,F,,1,3#Z1_led_bLmTP209,F,,1,3#Z2_led_bLmTP212,F,,1,3#MicBiasoLmbTP98,F,,2.2,2.6#NtcLmbTP216,F,,-0.1,0.1#Spk_lLmPad18,F,,67,95#Spk_rLmPad16,F,,67,95#Fast_chargeLM,F,,370,500#TrickleChargeLm,F,,4,12#aStopCharge_4V25LMB,F,,0,5#OvpLM,F,,-2,3#OcpLM,F,,150,250#WriteLEDBinCodeBySMT,F,, , #ReadLEDBinCode,F,, , #SetPCBASNByHeadSet,F,, , #GetPCBASNByHeadSet,F,, , #Off_Mode_currentLM,F,,0.1,10#"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/20/2023 12:47:54 PM
+{"modelValue":"HDT627-SMT","SN":"2342ME000P22","Result":"False","Station":"T1.11","workorders":"","MachineName":"VNML04OF-000406","TestTime":"43.79","TestLog":"UID,P,2342ME000P22, , #ScanBinCode,F,False, , #PowerOnCurrentLM,F,,1,25#getFwByHeadset,F,,V2.0.6,V2.0.6#Light_Bar_On_CurrentLM,F,,15,35#All_led_off_CurrentLM,F,,1,6#VsysLmTP202,F,,4.37,4.83#ResetLmTP72,F,,1.62,1.98#VdcLmTP73,F,,4.5,5#Z1_led_rLmTP208,F,,1,3#Z1_led_gLmTP207,F,,1,3#Z2_led_rLmTP211,F,,1,3#Z2_led_gLmTP210,F,,1,3#Z1_led_bLmTP209,F,,1,3#Z2_led_bLmTP212,F,,1,3#MicBiasoLmbTP98,F,,2.2,2.6#NtcLmbTP216,F,,-0.1,0.1#Spk_lLmPad18,F,,67,95#Spk_rLmPad16,F,,67,95#Fast_chargeLM,F,,370,500#TrickleChargeLm,F,,4,12#aStopCharge_4V25LMB,F,,0,5#OvpLM,F,,-2,3#OcpLM,F,,150,250#WriteLEDBinCodeBySMT,F,, , #ReadLEDBinCode,F,, , #SetPCBASNByHeadSet,F,, , #GetPCBASNByHeadSet,F,, , #Off_Mode_currentLM,F,,0.1,10#"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/20/2023 12:48:33 PM
+{"modelValue":"HDT627-SMT","SN":"123123123123","Result":"False","Station":"T1.11","workorders":"","MachineName":"VNML04OF-000406","TestTime":"30.07","TestLog":"UID,P,2342ME000P22, , #ScanBinCode,F,False, , #PowerOnCurrentLM,F,,1,25#getFwByHeadset,F,,V2.0.6,V2.0.6#Light_Bar_On_CurrentLM,F,,15,35#All_led_off_CurrentLM,F,,1,6#VsysLmTP202,F,,4.37,4.83#ResetLmTP72,F,,1.62,1.98#VdcLmTP73,F,,4.5,5#Z1_led_rLmTP208,F,,1,3#Z1_led_gLmTP207,F,,1,3#Z2_led_rLmTP211,F,,1,3#Z2_led_gLmTP210,F,,1,3#Z1_led_bLmTP209,F,,1,3#Z2_led_bLmTP212,F,,1,3#MicBiasoLmbTP98,F,,2.2,2.6#NtcLmbTP216,F,,-0.1,0.1#Spk_lLmPad18,F,,67,95#Spk_rLmPad16,F,,67,95#Fast_chargeLM,F,,370,500#TrickleChargeLm,F,,4,12#aStopCharge_4V25LMB,F,,0,5#OvpLM,F,,-2,3#OcpLM,F,,150,250#WriteLEDBinCodeBySMT,F,, , #ReadLEDBinCode,F,, , #SetPCBASNByHeadSet,F,, , #GetPCBASNByHeadSet,F,, , #Off_Mode_currentLM,F,,0.1,10#"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/20/2023 1:12:16 PM
+{"modelValue":"HDT627-SMT","SN":"2342ME000P22","Result":"False","Station":"T1.11","workorders":"","MachineName":"VNML04OF-000406","TestTime":"17.22","TestLog":"UID,P,2342ME000P22, , #ScanBinCode,F,False, , #PowerOnCurrentLM,F,,1,25#getFwByHeadset,F,,V2.0.6,V2.0.6#Light_Bar_On_CurrentLM,F,,15,35#All_led_off_CurrentLM,F,,1,6#VsysLmTP202,F,,4.37,4.83#ResetLmTP72,F,,1.62,1.98#VdcLmTP73,F,,4.5,5#Z1_led_rLmTP208,F,,1,3#Z1_led_gLmTP207,F,,1,3#Z2_led_rLmTP211,F,,1,3#Z2_led_gLmTP210,F,,1,3#Z1_led_bLmTP209,F,,1,3#Z2_led_bLmTP212,F,,1,3#MicBiasoLmbTP98,F,,2.2,2.6#NtcLmbTP216,F,,-0.1,0.1#Spk_lLmPad18,F,,67,95#Spk_rLmPad16,F,,67,95#Fast_chargeLM,F,,370,500#TrickleChargeLm,F,,4,12#aStopCharge_4V25LMB,F,,0,5#OvpLM,F,,-2,3#OcpLM,F,,150,250#WriteLEDBinCodeBySMT,F,, , #ReadLEDBinCode,F,, , #SetPCBASNByHeadSet,F,, , #GetPCBASNByHeadSet,F,, , #Off_Mode_currentLM,F,,0.1,10#"}
+异常信息404=>Column count doesn't match value count at row 1
+错误内容
+10/27/2023 8:30:48 AM
+{"modelValue":"HDT627","SN":"2341ME02R158","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"21.46","TestLog":"UID,P,2342ME0002P2, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 8:41:10 AM
+{"modelValue":"HDT627","SN":"2341ME02R108","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"41.06","TestLog":"UID,P,2342ME0002T2, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 8:46:24 AM
+{"modelValue":"HDT627","SN":"2341ME02R108","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"130.51","TestLog":"UID,P,2342ME0002T2, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 8:50:08 AM
+{"modelValue":"HDT627","SN":"2341ME02R108","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"8.71","TestLog":"UID,P,2342ME0002T2, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 8:51:42 AM
+{"modelValue":"HDT627","SN":"2341ME02R108","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"9.31","TestLog":"UID,P,2342ME0002T2, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 8:58:05 AM
+{"modelValue":"HDT627","SN":"2341ME02R108","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"9.37","TestLog":"UID,P,2342ME0002T2, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 9:00:29 AM
+{"modelValue":"HDT627","SN":"2341ME02R108","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"10.25","TestLog":"UID,P,2342ME0002T2, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 9:21:59 AM
+{"modelValue":"HDT627","SN":"2341ME02R108","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"3.72","TestLog":"UID,P,2342ME0002T2, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 9:24:12 AM
+{"modelValue":"HDT627","SN":"2341ME02R108","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"2.18","TestLog":"UID,P,2342ME0002T2, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 9:24:51 AM
+{"modelValue":"HDT627","SN":"2341ME02R108","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"4.58","TestLog":"UID,P,2342ME0002T2, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 9:32:51 AM
+{"modelValue":"HDT627","SN":"2341ME02R118","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"12.52","TestLog":"UID,P,2342ME0002U2, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 9:34:24 AM
+{"modelValue":"HDT627","SN":"2341ME02R118","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"1.93","TestLog":"UID,F,, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 9:34:52 AM
+{"modelValue":"HDT627","SN":"2341ME02R118","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"2.12","TestLog":"UID,F,, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 9:55:01 AM
+{"modelValue":"HDT627","SN":"2341ME02R128","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"3.11","TestLog":"UID,F,, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 9:57:47 AM
+{"modelValue":"HDT627","SN":"2341ME02R128","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"3.20","TestLog":"UID,P,2342ME0002V2, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 9:57:58 AM
+{"modelValue":"HDT627","SN":"2341ME02R128","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"1.83","TestLog":"UID,P,2342ME0002V2, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 1:35:58 PM
+{"modelValue":"HDT627","SN":"2341ME02R138","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"4.21","TestLog":"UID,F,, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 1:43:53 PM
+{"modelValue":"HDT627","SN":"2341ME02R138","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"2.04","TestLog":"UID,F,, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 1:54:03 PM
+{"modelValue":"HDT627","SN":"2341ME02R138","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"1.75","TestLog":"UID,F,, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 1:56:12 PM
+{"modelValue":"HDT627","SN":"2341ME02R138","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"2.30","TestLog":"UID,F,, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 2:31:51 PM
+{"modelValue":"HDT627","SN":"2341ME02R138","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"19.47","TestLog":"UID,F,, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 2:32:50 PM
+{"modelValue":"HDT627","SN":"2341ME02R138","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"2.50","TestLog":"UID,F,, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 2:33:11 PM
+{"modelValue":"HDT627","SN":"2341ME02R138","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"2.17","TestLog":"UID,F,, , #OffmodeCurrentT3.01TurnOffBefore,F,,1,3#TurnOn,F,, , #powerOnCurrentT3.01TurnOn,F,,3,30#TurnOff,F,,NA,NA#offmodeCurrentT3.01TurnOff,F,,5,15#"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 2:40:43 PM
+{"modelValue":"HDT627","SN":"2341ME02R148","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"0.62","TestLog":"UID,F,2342ME0002X2, , #TurnOn,F,, , #"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 2:41:39 PM
+{"modelValue":"HDT627","SN":"2341ME02R148","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"0.63","TestLog":"UID,F,2342ME0002X2, , #TurnOn,F,, , #"}
+异常信息205Column count doesn't match value count at row 1
+错误内容
+10/27/2023 2:42:36 PM
+{"modelValue":"HDT627","SN":"2341ME02R148","Result":"False","Station":"TICO T3.01","workorders":"002100037952","MachineName":"VNML04OF-000406","TestTime":"3.49","TestLog":"UID,P,2342ME0002X2, , #TurnOn,F,False, , #"}
+异常信息205Column count doesn't match value count at row 1
+错误内容

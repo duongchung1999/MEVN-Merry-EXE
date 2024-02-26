@@ -1,0 +1,14 @@
+2023-12-13 17:02:36-checkEmpNo==>>Execute Start
+2023-12-13 17:02:36-checkEmpNo==>>Param【EMP】【91201975】
+2023-12-13 17:02:36-checkEmpNo==>>Param【STATION】【T2.45Test 660】
+2023-12-13 17:02:36-checkEmpNo==>>Result【OK;】 - Exectue Total【20】ms 
+2023-12-13 17:02:36-GetPart==>>Execute Start
+2023-12-13 17:02:36-GetPart==>>Param【WO】【000000000000】
+2023-12-13 17:02:36-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【10】ms 
+2023-12-13 17:03:13-checkEmpNo==>>Execute Start
+2023-12-13 17:03:13-checkEmpNo==>>Param【EMP】【91201975】
+2023-12-13 17:03:13-checkEmpNo==>>Param【STATION】【T2.45Test 660】
+2023-12-13 17:03:13-checkEmpNo==>>Result【OK;】 - Exectue Total【16】ms 
+2023-12-13 17:03:13-GetPart==>>Execute Start
+2023-12-13 17:03:13-GetPart==>>Param【WO】【000000000000】
+2023-12-13 17:03:13-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【8】ms 

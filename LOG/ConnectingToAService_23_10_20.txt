@@ -1,0 +1,93 @@
+2023 10 20 12 36 19	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 12 36 19	Writedata:{"model":"HDT627-SMT","station":"T1.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 12 36 19	1、404 资产管理系统无该电脑编号
+2023 10 20 12 38 01	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 12 38 01	Writedata:{"model":"HDT627-SMT","station":"T1.01","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 12 38 01	1、404 资产管理系统无该电脑编号
+2023 10 20 12 38 47	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 12 38 47	Writedata:{"model":"HDT627-SMT","station":"T1.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 12 38 47	1、404 资产管理系统无该电脑编号
+2023 10 20 12 44 01	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 12 44 01	Writedata:{"model":"HDT627-SMT","station":"T1.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 12 44 01	1、404 资产管理系统无该电脑编号
+2023 10 20 12 45 05	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 12 45 05	Writedata:{"model":"HDT627-SMT","station":"T1.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 12 45 05	1、404 资产管理系统无该电脑编号
+2023 10 20 12 46 20	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 12 46 20	Writedata:{"model":"HDT627-SMT","station":"T1.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 12 46 20	1、404 资产管理系统无该电脑编号
+2023 10 20 12 47 05	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 12 47 05	Writedata:{"model":"HDT627-SMT","station":"T1.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 12 47 05	1、404 资产管理系统无该电脑编号
+2023 10 20 12 49 05	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 12 49 05	Writedata:{"model":"HDT627-SMT","station":"T1.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 12 49 05	2、404 资产管理系统无该电脑编号
+2023 10 20 12 52 46	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 12 52 46	Writedata:{"model":"HDT627-SMT","station":"T1.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 12 52 46	1、404 资产管理系统无该电脑编号
+2023 10 20 13 11 47	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 13 11 47	Writedata:{"model":"HDT627-SMT","station":"T1.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 13 11 47	1、404 资产管理系统无该电脑编号
+2023 10 20 14 21 23	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 14 21 23	Writedata:{"model":"HDT647","station":"STM32","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 14 21 23	1、404 资产管理系统无该电脑编号
+2023 10 20 14 21 51	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 14 21 51	Writedata:{"model":"HDT647","station":"STM32","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 14 21 51	1、404 资产管理系统无该电脑编号
+2023 10 20 14 23 57	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 14 23 57	Writedata:{"model":"HDT647","station":"STM32","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 14 24 06	2、404 资产管理系统无该电脑编号
+2023 10 20 14 25 32	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 14 25 32	Writedata:{"model":"HDT647","station":"STM32","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 14 25 32	1、404 资产管理系统无该电脑编号
+2023 10 20 14 26 56	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 14 26 56	Writedata:{"model":"HDT647","station":"STM32","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 14 26 56	1、404 资产管理系统无该电脑编号
+2023 10 20 14 28 33	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 14 28 33	Writedata:{"model":"HDT647","station":"STM32","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 14 28 33	1、404 资产管理系统无该电脑编号
+2023 10 20 14 31 57	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 14 31 57	Writedata:{"model":"HDT647","station":"STM32","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 14 31 57	1、404 资产管理系统无该电脑编号
+2023 10 20 14 32 59	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 14 32 59	Writedata:{"model":"HDT647","station":"STM32","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 14 32 59	1、404 资产管理系统无该电脑编号
+2023 10 20 14 33 53	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 14 33 53	Writedata:{"model":"HDT647","station":"STM32","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 14 33 53	1、404 资产管理系统无该电脑编号
+2023 10 20 14 35 11	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 14 35 11	Writedata:{"model":"HDT647","station":"STM32","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 14 35 11	1、404 资产管理系统无该电脑编号
+2023 10 20 14 35 40	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 14 35 40	Writedata:{"model":"HDT647","station":"STM32","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 14 35 40	1、404 资产管理系统无该电脑编号
+2023 10 20 14 39 53	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 14 39 53	Writedata:{"model":"HDT647","station":"STM32","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 14 39 53	1、404 资产管理系统无该电脑编号
+2023 10 20 14 41 27	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 14 41 27	Writedata:{"model":"HDT647","station":"STM32","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 14 41 27	1、404 资产管理系统无该电脑编号
+2023 10 20 14 43 25	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 14 43 25	Writedata:{"model":"HDT647","station":"STM32","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 14 43 25	1、404 资产管理系统无该电脑编号
+2023 10 20 14 44 56	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 14 44 56	Writedata:{"model":"HDT647","station":"STM32","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 14 44 56	1、404 资产管理系统无该电脑编号
+2023 10 20 15 28 13	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 15 28 13	Writedata:{"model":"STM32","station":"T1.0","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 15 28 13	1、404 资产管理系统无该电脑编号
+2023 10 20 15 28 59	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 15 28 59	Writedata:{"model":"STM32","station":"T1.0","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 15 28 59	1、404 资产管理系统无该电脑编号
+2023 10 20 15 30 31	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 15 30 31	Writedata:{"model":"STM32","station":"T1.0","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 15 30 31	1、404 资产管理系统无该电脑编号
+2023 10 20 18 25 11	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 18 25 11	Writedata:{"model":"HDT627","station":"TICO T3.02","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 18 25 11	1、404 资产管理系统无该电脑编号
+2023 10 20 18 28 55	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 18 28 55	Writedata:{"model":"HDT627","station":"TICO T3.02","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 18 28 55	1、404 资产管理系统无该电脑编号
+2023 10 20 18 30 56	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 20 18 30 56	Writedata:{"model":"HDT627","station":"TICO T3.02","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 20 18 30 56	2、404 资产管理系统无该电脑编号

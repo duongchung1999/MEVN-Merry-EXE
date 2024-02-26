@@ -1,0 +1,4 @@
+﻿1,Open Switch,N/A,N/A,N/A,4,dllname=Switch&继电器跳转=1.2.3.4.5.6.7.8.9.10.11.12.13.14.15.16
+2,120s,N/A,N/A,N/A,4,dllname=Common_V1&method=Sleep&millisecond=120000
+3,Reset Switch,N/A,N/A,N/A,4,dllname=Switch&继电器跳转=0
+4,30s,N/A,N/A,N/A,4,dllname=Common_V1&method=Sleep&millisecond=30000

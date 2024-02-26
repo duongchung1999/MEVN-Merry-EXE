@@ -1,0 +1,12 @@
+﻿11/28/2023 2:55:45 PM
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object.
+   at VCS001.CommandList.TE_BZP() in E:\2. MEVNSW\1_SourceCode\9_IPEVO\Src\VCS001 Src\MX001\CommandList.cs:line 29
+   at VCS001.CommandList.Write_SN(String SN) in E:\2. MEVNSW\1_SourceCode\9_IPEVO\Src\VCS001 Src\MX001\CommandList.cs:line 565
+   at MerryDllFramework.MerryDll.Run(String Command) in E:\2. MEVNSW\1_SourceCode\9_IPEVO\Src\VCS001 Src\MX001\VCS001.cs:line 67
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at MerryTest.SingleTestAPI.API.AllDLL.CallMethod(String TKey, String method, Object[] parameter, Boolean& isError, String& error) in E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\MerryTest\SingleTestAPI\AllDLL.cs:line 157
+VCS001|Run

@@ -1,0 +1,96 @@
+2023 11 28 14 29 59	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 28 14 29 59	Writedata:{"model":"VCS001","station":"T2.3-1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 28 14 29 59	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 28 14 29 59	1、False
+2023 11 28 14 30 26	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 28 14 30 26	Writedata:{"model":"VCS001","station":"T2.3-1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 28 14 30 26	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 28 14 30 26	1、False
+2023 11 28 14 32 26	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 28 14 32 26	Writedata:{"model":"VCS001","station":"T2.3-1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 28 14 32 26	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 28 14 32 26	2、False
+2023 11 28 14 34 26	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 28 14 34 26	Writedata:{"model":"VCS001","station":"T2.3-1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 28 14 34 26	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 28 14 34 26	3、False
+2023 11 28 14 36 26	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 28 14 36 26	Writedata:{"model":"VCS001","station":"T2.3-1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 28 14 36 26	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 28 14 36 26	4、False
+2023 11 28 14 38 26	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 28 14 38 26	Writedata:{"model":"VCS001","station":"T2.3-1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 28 14 38 26	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 28 14 38 26	5、False
+2023 11 28 14 40 26	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 28 14 40 26	Writedata:{"model":"VCS001","station":"T2.3-1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 28 14 40 26	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 28 14 40 26	6、False
+2023 11 28 14 42 26	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 28 14 42 26	Writedata:{"model":"VCS001","station":"T2.3-1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 28 14 42 26	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 28 14 42 26	7、False
+2023 11 28 14 44 26	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 28 14 44 26	Writedata:{"model":"VCS001","station":"T2.3-1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 28 14 44 26	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 28 14 44 26	8、False
+2023 11 28 14 46 26	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 28 14 46 26	Writedata:{"model":"VCS001","station":"T2.3-1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 28 14 46 26	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 28 14 46 26	9、False
+2023 11 28 14 48 26	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 28 14 48 26	Writedata:{"model":"VCS001","station":"T2.3-1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 28 14 48 26	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 28 14 48 26	10、False
+2023 11 28 14 50 26	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 28 14 50 26	Writedata:{"model":"VCS001","station":"T2.3-1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 28 14 50 26	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 28 14 50 26	11、False
+2023 11 28 14 52 26	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 28 14 52 26	Writedata:{"model":"VCS001","station":"T2.3-1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 28 14 52 26	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 28 14 52 26	12、False
+2023 11 28 14 54 04	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 28 14 54 04	Writedata:{"model":"VCS001","station":"T2.3-1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 28 14 54 04	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 28 14 54 04	1、False
+2023 11 28 14 55 22	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 28 14 55 22	Writedata:{"model":"VCS001","station":"T2.3-1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 28 14 55 22	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 28 14 55 22	1、False
+2023 11 28 14 57 22	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 28 14 57 22	Writedata:{"model":"VCS001","station":"T2.3-1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 28 14 57 22	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 28 14 57 22	2、False

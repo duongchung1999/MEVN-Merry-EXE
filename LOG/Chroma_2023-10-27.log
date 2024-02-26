@@ -1,0 +1,429 @@
+2023-10-27 08:28:57-checkEmpNo==>>Execute Start
+2023-10-27 08:28:57-checkEmpNo==>>Param【EMP】【91201975】
+2023-10-27 08:28:57-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 08:28:57-checkEmpNo==>>Result【OK;】 - Exectue Total【50】ms 
+2023-10-27 08:28:57-GetPart==>>Execute Start
+2023-10-27 08:28:57-GetPart==>>Param【WO】【002100037952】
+2023-10-27 08:28:57-GetPart==>>Result【85X627019000】 - Exectue Total【15】ms 
+2023-10-27 08:30:10-checkSN_Station==>>Execute Start
+2023-10-27 08:30:10-checkSN_Station==>>Param【SN】【2341ME02R0W8】
+2023-10-27 08:30:10-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 08:30:10-checkSN_Station==>>Result【NG;[EC999] Route NG:HDT627 TICO T3.2 / HDT627 TICO T3.1;】 - Exectue Total【18】ms 
+2023-10-27 08:30:18-checkSN_Station==>>Execute Start
+2023-10-27 08:30:18-checkSN_Station==>>Param【SN】【2341ME02R0Y8】
+2023-10-27 08:30:18-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 08:30:18-checkSN_Station==>>Result【NG;[EC999] Route NG:HDT627 TICO T3.3 / HDT627 TICO T3.1;】 - Exectue Total【20】ms 
+2023-10-27 08:30:24-checkSN_Station==>>Execute Start
+2023-10-27 08:30:24-checkSN_Station==>>Param【SN】【2341ME02R158】
+2023-10-27 08:30:24-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 08:30:24-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【16】ms 
+2023-10-27 08:39:52-checkEmpNo==>>Execute Start
+2023-10-27 08:39:52-checkEmpNo==>>Param【EMP】【91201975】
+2023-10-27 08:39:52-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 08:39:52-checkEmpNo==>>Result【OK;】 - Exectue Total【43】ms 
+2023-10-27 08:39:52-GetPart==>>Execute Start
+2023-10-27 08:39:52-GetPart==>>Param【WO】【002100037952】
+2023-10-27 08:39:52-GetPart==>>Result【85X627019000】 - Exectue Total【10】ms 
+2023-10-27 08:40:09-checkSN_Station==>>Execute Start
+2023-10-27 08:40:09-checkSN_Station==>>Param【SN】【2341ME02R0Z8】
+2023-10-27 08:40:09-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 08:40:09-checkSN_Station==>>Result【NG;[EC999] Route NG:HDT627 TICO T3.3 / HDT627 TICO T3.1;】 - Exectue Total【12】ms 
+2023-10-27 08:40:15-checkSN_Station==>>Execute Start
+2023-10-27 08:40:15-checkSN_Station==>>Param【SN】【2341ME02R108】
+2023-10-27 08:40:15-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 08:40:15-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【16】ms 
+2023-10-27 08:43:58-checkEmpNo==>>Execute Start
+2023-10-27 08:43:58-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-27 08:43:58-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 08:43:58-checkEmpNo==>>Result【OK;】 - Exectue Total【43】ms 
+2023-10-27 08:43:58-GetPart==>>Execute Start
+2023-10-27 08:43:58-GetPart==>>Param【WO】【002100037952】
+2023-10-27 08:43:58-GetPart==>>Result【85X627019000】 - Exectue Total【10】ms 
+2023-10-27 08:44:12-checkSN_Station==>>Execute Start
+2023-10-27 08:44:12-checkSN_Station==>>Param【SN】【2341ME02R108】
+2023-10-27 08:44:12-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 08:44:12-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【21】ms 
+2023-10-27 08:49:39-checkEmpNo==>>Execute Start
+2023-10-27 08:49:39-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-27 08:49:39-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 08:49:39-checkEmpNo==>>Result【OK;】 - Exectue Total【51】ms 
+2023-10-27 08:49:39-GetPart==>>Execute Start
+2023-10-27 08:49:39-GetPart==>>Param【WO】【002100037952】
+2023-10-27 08:49:39-GetPart==>>Result【85X627019000】 - Exectue Total【14】ms 
+2023-10-27 08:49:58-checkSN_Station==>>Execute Start
+2023-10-27 08:49:58-checkSN_Station==>>Param【SN】【2341ME02R108】
+2023-10-27 08:49:58-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 08:49:58-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【14】ms 
+2023-10-27 08:50:08-sendTestResult==>>Execute Start
+2023-10-27 08:50:08-sendTestResult==>>Param【EMP】【91204140】
+2023-10-27 08:50:08-sendTestResult==>>Param【SN】【2341ME02R108】
+2023-10-27 08:50:08-sendTestResult==>>Param【STATION】【TICO T3.01】
+2023-10-27 08:50:08-sendTestResult==>>Param【RESULT】【NG;ST0004;】
+2023-10-27 08:50:08-sendTestResult==>>Result【NG;第一次NG LẦN TEST1NG;】 - Exectue Total【47】ms 
+2023-10-27 08:51:19-checkEmpNo==>>Execute Start
+2023-10-27 08:51:19-checkEmpNo==>>Param【EMP】【91201975】
+2023-10-27 08:51:19-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 08:51:19-checkEmpNo==>>Result【OK;】 - Exectue Total【49】ms 
+2023-10-27 08:51:19-GetPart==>>Execute Start
+2023-10-27 08:51:19-GetPart==>>Param【WO】【002100037952】
+2023-10-27 08:51:19-GetPart==>>Result【85X627019000】 - Exectue Total【10】ms 
+2023-10-27 08:51:32-checkSN_Station==>>Execute Start
+2023-10-27 08:51:32-checkSN_Station==>>Param【SN】【2341ME02R108】
+2023-10-27 08:51:32-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 08:51:32-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【19】ms 
+2023-10-27 08:55:54-sendTestResult==>>Execute Start
+2023-10-27 08:55:54-sendTestResult==>>Param【EMP】【91201975】
+2023-10-27 08:55:54-sendTestResult==>>Param【SN】【2341ME02R108】
+2023-10-27 08:55:54-sendTestResult==>>Param【STATION】【TICO T3.01】
+2023-10-27 08:55:54-sendTestResult==>>Param【RESULT】【NG;HDT627_301_002;】
+2023-10-27 08:55:54-sendTestResult==>>Result【NG;[EC203] ERROR CODE NG; [HDT627_301_002]】 - Exectue Total【30】ms 
+2023-10-27 08:57:43-checkEmpNo==>>Execute Start
+2023-10-27 08:57:43-checkEmpNo==>>Param【EMP】【91201975】
+2023-10-27 08:57:43-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 08:57:43-checkEmpNo==>>Result【OK;】 - Exectue Total【56】ms 
+2023-10-27 08:57:43-GetPart==>>Execute Start
+2023-10-27 08:57:43-GetPart==>>Param【WO】【002100037952】
+2023-10-27 08:57:43-GetPart==>>Result【85X627019000】 - Exectue Total【16】ms 
+2023-10-27 08:57:54-checkSN_Station==>>Execute Start
+2023-10-27 08:57:54-checkSN_Station==>>Param【SN】【2341ME02R108】
+2023-10-27 08:57:54-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 08:57:54-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【54】ms 
+2023-10-27 08:58:12-sendTestResult==>>Execute Start
+2023-10-27 08:58:12-sendTestResult==>>Param【EMP】【91201975】
+2023-10-27 08:58:12-sendTestResult==>>Param【SN】【2341ME02R108】
+2023-10-27 08:58:12-sendTestResult==>>Param【STATION】【TICO T3.01】
+2023-10-27 08:58:12-sendTestResult==>>Param【RESULT】【NG;HDT627_301_002;】
+2023-10-27 08:58:12-sendTestResult==>>Result【NG;[EC203] ERROR CODE NG; [HDT627_301_002]】 - Exectue Total【33】ms 
+2023-10-27 09:00:05-checkEmpNo==>>Execute Start
+2023-10-27 09:00:05-checkEmpNo==>>Param【EMP】【91201975】
+2023-10-27 09:00:05-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:00:05-checkEmpNo==>>Result【OK;】 - Exectue Total【49】ms 
+2023-10-27 09:00:05-GetPart==>>Execute Start
+2023-10-27 09:00:05-GetPart==>>Param【WO】【002100037952】
+2023-10-27 09:00:05-GetPart==>>Result【85X627019000】 - Exectue Total【16】ms 
+2023-10-27 09:00:18-checkSN_Station==>>Execute Start
+2023-10-27 09:00:18-checkSN_Station==>>Param【SN】【2341ME02R108】
+2023-10-27 09:00:18-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:00:18-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【19】ms 
+2023-10-27 09:00:55-sendTestResult==>>Execute Start
+2023-10-27 09:00:55-sendTestResult==>>Param【EMP】【91201975】
+2023-10-27 09:00:55-sendTestResult==>>Param【SN】【2341ME02R108】
+2023-10-27 09:00:55-sendTestResult==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:00:55-sendTestResult==>>Param【RESULT】【NG;HDT627_301_002;】
+2023-10-27 09:00:55-sendTestResult==>>Result【NG;[EC203] ERROR CODE NG; [HDT627_301_002]】 - Exectue Total【23】ms 
+2023-10-27 09:21:44-checkEmpNo==>>Execute Start
+2023-10-27 09:21:44-checkEmpNo==>>Param【EMP】【91204127】
+2023-10-27 09:21:44-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:21:44-checkEmpNo==>>Result【OK;】 - Exectue Total【50】ms 
+2023-10-27 09:21:44-GetPart==>>Execute Start
+2023-10-27 09:21:44-GetPart==>>Param【WO】【002100037952】
+2023-10-27 09:21:44-GetPart==>>Result【85X627019000】 - Exectue Total【15】ms 
+2023-10-27 09:21:53-checkSN_Station==>>Execute Start
+2023-10-27 09:21:53-checkSN_Station==>>Param【SN】【2341ME02R108】
+2023-10-27 09:21:53-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:21:53-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【13】ms 
+2023-10-27 09:21:59-sendTestResult==>>Execute Start
+2023-10-27 09:21:59-sendTestResult==>>Param【EMP】【91204127】
+2023-10-27 09:21:59-sendTestResult==>>Param【SN】【2341ME02R108】
+2023-10-27 09:21:59-sendTestResult==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:21:59-sendTestResult==>>Param【RESULT】【NG;HDT627_301_002;】
+2023-10-27 09:21:59-sendTestResult==>>Result【NG;[EC203] ERROR CODE NG; [HDT627_301_002]】 - Exectue Total【37】ms 
+2023-10-27 09:23:55-checkEmpNo==>>Execute Start
+2023-10-27 09:23:55-checkEmpNo==>>Param【EMP】【91204127】
+2023-10-27 09:23:55-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:23:55-checkEmpNo==>>Result【OK;】 - Exectue Total【44】ms 
+2023-10-27 09:23:55-GetPart==>>Execute Start
+2023-10-27 09:23:55-GetPart==>>Param【WO】【002100037952】
+2023-10-27 09:23:55-GetPart==>>Result【85X627019000】 - Exectue Total【13】ms 
+2023-10-27 09:24:09-checkSN_Station==>>Execute Start
+2023-10-27 09:24:09-checkSN_Station==>>Param【SN】【2341ME02R108】
+2023-10-27 09:24:09-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:24:09-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【34】ms 
+2023-10-27 09:24:20-sendTestResult==>>Execute Start
+2023-10-27 09:24:20-sendTestResult==>>Param【EMP】【91204127】
+2023-10-27 09:24:20-sendTestResult==>>Param【SN】【2341ME02R108】
+2023-10-27 09:24:20-sendTestResult==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:24:20-sendTestResult==>>Param【RESULT】【NG;HDT627_301_002;】
+2023-10-27 09:24:20-sendTestResult==>>Result【NG;第2次NG LẦN TEST2NG 】 - Exectue Total【26】ms 
+2023-10-27 09:24:46-checkSN_Station==>>Execute Start
+2023-10-27 09:24:46-checkSN_Station==>>Param【SN】【2341ME02R108】
+2023-10-27 09:24:46-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:24:46-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【14】ms 
+2023-10-27 09:24:54-sendTestResult==>>Execute Start
+2023-10-27 09:24:54-sendTestResult==>>Param【EMP】【91204127】
+2023-10-27 09:24:54-sendTestResult==>>Param【SN】【2341ME02R108】
+2023-10-27 09:24:54-sendTestResult==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:24:54-sendTestResult==>>Param【RESULT】【NG;HDT627_301_002;】
+2023-10-27 09:24:54-sendTestResult==>>Result【NG;累計NG次數達3次，請維修 TỔNG SỐ LẦN TEST 3, HÀNG CẦN ĐI SỬA 】 - Exectue Total【49】ms 
+2023-10-27 09:27:05-checkEmpNo==>>Execute Start
+2023-10-27 09:27:05-checkEmpNo==>>Param【EMP】【91204127】
+2023-10-27 09:27:05-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:27:05-checkEmpNo==>>Result【OK;】 - Exectue Total【50】ms 
+2023-10-27 09:27:05-GetPart==>>Execute Start
+2023-10-27 09:27:05-GetPart==>>Param【WO】【002100037952】
+2023-10-27 09:27:05-GetPart==>>Result【85X627019000】 - Exectue Total【14】ms 
+2023-10-27 09:27:13-checkSN_Station==>>Execute Start
+2023-10-27 09:27:13-checkSN_Station==>>Param【SN】【2341ME02R108】
+2023-10-27 09:27:13-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:27:13-checkSN_Station==>>Result【NG;[EC999] Route NG:Assembly Repair TICO / HDT627 TICO T3.1;】 - Exectue Total【20】ms 
+2023-10-27 09:32:36-checkSN_Station==>>Execute Start
+2023-10-27 09:32:36-checkSN_Station==>>Param【SN】【2341ME02R118】
+2023-10-27 09:32:36-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:32:36-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【25】ms 
+2023-10-27 09:32:53-sendTestResult==>>Execute Start
+2023-10-27 09:32:53-sendTestResult==>>Param【EMP】【91204127】
+2023-10-27 09:32:53-sendTestResult==>>Param【SN】【2341ME02R118】
+2023-10-27 09:32:53-sendTestResult==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:32:53-sendTestResult==>>Param【RESULT】【NG;HDT627_301_002;】
+2023-10-27 09:32:53-sendTestResult==>>Result【NG;第一次NG LẦN TEST1NG;】 - Exectue Total【33】ms 
+2023-10-27 09:34:06-checkEmpNo==>>Execute Start
+2023-10-27 09:34:06-checkEmpNo==>>Param【EMP】【91204127】
+2023-10-27 09:34:06-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:34:06-checkEmpNo==>>Result【OK;】 - Exectue Total【64】ms 
+2023-10-27 09:34:06-GetPart==>>Execute Start
+2023-10-27 09:34:06-GetPart==>>Param【WO】【002100037952】
+2023-10-27 09:34:06-GetPart==>>Result【85X627019000】 - Exectue Total【14】ms 
+2023-10-27 09:34:21-checkSN_Station==>>Execute Start
+2023-10-27 09:34:21-checkSN_Station==>>Param【SN】【2341ME02R118】
+2023-10-27 09:34:21-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:34:21-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【16】ms 
+2023-10-27 09:34:27-sendTestResult==>>Execute Start
+2023-10-27 09:34:27-sendTestResult==>>Param【EMP】【91204127】
+2023-10-27 09:34:27-sendTestResult==>>Param【SN】【2341ME02R118】
+2023-10-27 09:34:27-sendTestResult==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:34:27-sendTestResult==>>Param【RESULT】【NG;HDT627_301_001;】
+2023-10-27 09:34:27-sendTestResult==>>Result【NG;第2次NG LẦN TEST2NG 】 - Exectue Total【38】ms 
+2023-10-27 09:34:49-checkSN_Station==>>Execute Start
+2023-10-27 09:34:49-checkSN_Station==>>Param【SN】【2341ME02R118】
+2023-10-27 09:34:49-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:34:49-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【14】ms 
+2023-10-27 09:34:54-sendTestResult==>>Execute Start
+2023-10-27 09:34:54-sendTestResult==>>Param【EMP】【91204127】
+2023-10-27 09:34:54-sendTestResult==>>Param【SN】【2341ME02R118】
+2023-10-27 09:34:54-sendTestResult==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:34:54-sendTestResult==>>Param【RESULT】【NG;HDT627_301_002;】
+2023-10-27 09:34:54-sendTestResult==>>Result【NG;累計NG次數達3次，請維修 TỔNG SỐ LẦN TEST 3, HÀNG CẦN ĐI SỬA 】 - Exectue Total【50】ms 
+2023-10-27 09:35:16-checkSN_Station==>>Execute Start
+2023-10-27 09:35:16-checkSN_Station==>>Param【SN】【2341ME02R118】
+2023-10-27 09:35:16-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:35:16-checkSN_Station==>>Result【NG;[EC999] Route NG:Assembly Repair TICO / HDT627 TICO T3.1;】 - Exectue Total【17】ms 
+2023-10-27 09:49:09-checkEmpNo==>>Execute Start
+2023-10-27 09:49:09-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-27 09:49:09-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:49:09-checkEmpNo==>>Result【OK;】 - Exectue Total【51】ms 
+2023-10-27 09:49:09-GetPart==>>Execute Start
+2023-10-27 09:49:09-GetPart==>>Param【WO】【002100037952】
+2023-10-27 09:49:09-GetPart==>>Result【85X627019000】 - Exectue Total【14】ms 
+2023-10-27 09:54:52-checkSN_Station==>>Execute Start
+2023-10-27 09:54:52-checkSN_Station==>>Param【SN】【2341ME02R118】
+2023-10-27 09:54:52-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:54:52-checkSN_Station==>>Result【NG;[EC999] Route NG:Assembly Repair TICO / HDT627 TICO T3.1;】 - Exectue Total【34】ms 
+2023-10-27 09:54:57-checkSN_Station==>>Execute Start
+2023-10-27 09:54:57-checkSN_Station==>>Param【SN】【2341ME02R128】
+2023-10-27 09:54:57-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:54:57-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【27】ms 
+2023-10-27 09:55:22-sendTestResult==>>Execute Start
+2023-10-27 09:55:22-sendTestResult==>>Param【EMP】【91204140】
+2023-10-27 09:55:22-sendTestResult==>>Param【SN】【2341ME02R128】
+2023-10-27 09:55:22-sendTestResult==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:55:22-sendTestResult==>>Param【RESULT】【NG;HDT627_301_001;】
+2023-10-27 09:55:22-sendTestResult==>>Result【NG;第一次NG LẦN TEST1NG;】 - Exectue Total【40】ms 
+2023-10-27 09:57:26-checkEmpNo==>>Execute Start
+2023-10-27 09:57:26-checkEmpNo==>>Param【EMP】【91204127】
+2023-10-27 09:57:26-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:57:26-checkEmpNo==>>Result【OK;】 - Exectue Total【135】ms 
+2023-10-27 09:57:26-GetPart==>>Execute Start
+2023-10-27 09:57:26-GetPart==>>Param【WO】【002100037952】
+2023-10-27 09:57:26-GetPart==>>Result【85X627019000】 - Exectue Total【19】ms 
+2023-10-27 09:57:42-checkSN_Station==>>Execute Start
+2023-10-27 09:57:42-checkSN_Station==>>Param【SN】【2341ME02R128】
+2023-10-27 09:57:42-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:57:42-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【14】ms 
+2023-10-27 09:57:48-sendTestResult==>>Execute Start
+2023-10-27 09:57:48-sendTestResult==>>Param【EMP】【91204127】
+2023-10-27 09:57:48-sendTestResult==>>Param【SN】【2341ME02R128】
+2023-10-27 09:57:48-sendTestResult==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:57:48-sendTestResult==>>Param【RESULT】【NG;HDT627_301_002;】
+2023-10-27 09:57:48-sendTestResult==>>Result【NG;第2次NG LẦN TEST2NG 】 - Exectue Total【27】ms 
+2023-10-27 09:57:56-checkSN_Station==>>Execute Start
+2023-10-27 09:57:56-checkSN_Station==>>Param【SN】【2341ME02R128】
+2023-10-27 09:57:56-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:57:56-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【17】ms 
+2023-10-27 09:58:00-sendTestResult==>>Execute Start
+2023-10-27 09:58:00-sendTestResult==>>Param【EMP】【91204127】
+2023-10-27 09:58:00-sendTestResult==>>Param【SN】【2341ME02R128】
+2023-10-27 09:58:00-sendTestResult==>>Param【STATION】【TICO T3.01】
+2023-10-27 09:58:00-sendTestResult==>>Param【RESULT】【NG;HDT627_301_002;】
+2023-10-27 09:58:00-sendTestResult==>>Result【NG;累計NG次數達3次，請維修 TỔNG SỐ LẦN TEST 3, HÀNG CẦN ĐI SỬA 】 - Exectue Total【43】ms 
+2023-10-27 10:00:53-checkEmpNo==>>Execute Start
+2023-10-27 10:00:53-checkEmpNo==>>Param【EMP】【91204127】
+2023-10-27 10:00:53-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 10:00:53-checkEmpNo==>>Result【OK;】 - Exectue Total【41】ms 
+2023-10-27 10:00:53-GetPart==>>Execute Start
+2023-10-27 10:00:53-GetPart==>>Param【WO】【002100037952】
+2023-10-27 10:00:53-GetPart==>>Result【85X627019000】 - Exectue Total【13】ms 
+2023-10-27 13:27:37-checkEmpNo==>>Execute Start
+2023-10-27 13:27:37-checkEmpNo==>>Param【EMP】【91201975】
+2023-10-27 13:27:37-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 13:27:37-checkEmpNo==>>Result【OK;】 - Exectue Total【144】ms 
+2023-10-27 13:27:37-GetPart==>>Execute Start
+2023-10-27 13:27:37-GetPart==>>Param【WO】【002100037952】
+2023-10-27 13:27:37-GetPart==>>Result【85X627019000】 - Exectue Total【15】ms 
+2023-10-27 13:34:41-checkEmpNo==>>Execute Start
+2023-10-27 13:34:41-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-27 13:34:41-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 13:34:41-checkEmpNo==>>Result【OK;】 - Exectue Total【40】ms 
+2023-10-27 13:34:41-GetPart==>>Execute Start
+2023-10-27 13:34:41-GetPart==>>Param【WO】【002100037952】
+2023-10-27 13:34:41-GetPart==>>Result【85X627019000】 - Exectue Total【8】ms 
+2023-10-27 13:35:53-checkSN_Station==>>Execute Start
+2023-10-27 13:35:53-checkSN_Station==>>Param【SN】【2341ME02R138】
+2023-10-27 13:35:53-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 13:35:53-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【23】ms 
+2023-10-27 13:43:13-checkEmpNo==>>Execute Start
+2023-10-27 13:43:13-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-27 13:43:13-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 13:43:24-checkEmpNo==>>Result【System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: An established connection was aborted by the software in your host machine 10.175.5.101:9111
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at SwATE_Net.WebReference.Service1.checkEmpNo(String sEMP, String sStation)
+   at SwATE_Net.SwATE.checkEmpNo(String sEMP, String sStation)】 - Exectue Total【363】ms 
+2023-10-27 13:43:24-GetPart==>>Execute Start
+2023-10-27 13:43:24-GetPart==>>Param【WO】【002100037952】
+2023-10-27 13:43:26-GetPart==>>Result【85X627019000】 - Exectue Total【776】ms 
+2023-10-27 13:43:36-checkEmpNo==>>Execute Start
+2023-10-27 13:43:36-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-27 13:43:36-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 13:43:37-checkEmpNo==>>Result【OK;】 - Exectue Total【157】ms 
+2023-10-27 13:43:37-GetPart==>>Execute Start
+2023-10-27 13:43:37-GetPart==>>Param【WO】【002100037952】
+2023-10-27 13:43:37-GetPart==>>Result【85X627019000】 - Exectue Total【28】ms 
+2023-10-27 13:43:50-checkSN_Station==>>Execute Start
+2023-10-27 13:43:50-checkSN_Station==>>Param【SN】【2341ME02R138】
+2023-10-27 13:43:50-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 13:43:50-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【32】ms 
+2023-10-27 13:53:12-checkEmpNo==>>Execute Start
+2023-10-27 13:53:12-checkEmpNo==>>Param【EMP】【91201975】
+2023-10-27 13:53:12-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 13:53:34-checkEmpNo==>>Result【System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond 10.175.5.101:9111
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at SwATE_Net.WebReference.Service1.checkEmpNo(String sEMP, String sStation)
+   at SwATE_Net.SwATE.checkEmpNo(String sEMP, String sStation)】 - Exectue Total【60】ms 
+2023-10-27 13:53:34-GetPart==>>Execute Start
+2023-10-27 13:53:34-GetPart==>>Param【WO】【002100037952】
+2023-10-27 13:53:34-GetPart==>>Result【System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A socket operation was attempted to an unreachable host 10.175.5.101:9111
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at System.Web.Services.Protocols.SoapHttpClientProtocol.Invoke(String methodName, Object[] parameters)
+   at SwATE_Net.WebReference.Service1.GetPart(String Wo)
+   at SwATE_Net.SwATE.GetPart(String Wo)】 - Exectue Total【8】ms 
+2023-10-27 13:53:49-checkEmpNo==>>Execute Start
+2023-10-27 13:53:49-checkEmpNo==>>Param【EMP】【91201975】
+2023-10-27 13:53:49-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 13:53:49-checkEmpNo==>>Result【OK;】 - Exectue Total【68】ms 
+2023-10-27 13:53:49-GetPart==>>Execute Start
+2023-10-27 13:53:49-GetPart==>>Param【WO】【002100037952】
+2023-10-27 13:53:49-GetPart==>>Result【85X627019000】 - Exectue Total【39】ms 
+2023-10-27 13:54:00-checkSN_Station==>>Execute Start
+2023-10-27 13:54:00-checkSN_Station==>>Param【SN】【2341ME02R138】
+2023-10-27 13:54:00-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 13:54:00-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【15】ms 
+2023-10-27 13:55:59-checkEmpNo==>>Execute Start
+2023-10-27 13:55:59-checkEmpNo==>>Param【EMP】【91201975】
+2023-10-27 13:55:59-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 13:55:59-checkEmpNo==>>Result【OK;】 - Exectue Total【79】ms 
+2023-10-27 13:55:59-GetPart==>>Execute Start
+2023-10-27 13:55:59-GetPart==>>Param【WO】【002100037952】
+2023-10-27 13:55:59-GetPart==>>Result【85X627019000】 - Exectue Total【16】ms 
+2023-10-27 13:56:09-checkSN_Station==>>Execute Start
+2023-10-27 13:56:09-checkSN_Station==>>Param【SN】【2341ME02R138】
+2023-10-27 13:56:09-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 13:56:09-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【16】ms 
+2023-10-27 14:31:19-checkEmpNo==>>Execute Start
+2023-10-27 14:31:19-checkEmpNo==>>Param【EMP】【91204127】
+2023-10-27 14:31:19-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 14:31:19-checkEmpNo==>>Result【OK;】 - Exectue Total【47】ms 
+2023-10-27 14:31:19-GetPart==>>Execute Start
+2023-10-27 14:31:19-GetPart==>>Param【WO】【002100037952】
+2023-10-27 14:31:19-GetPart==>>Result【85X627019000】 - Exectue Total【16】ms 
+2023-10-27 14:31:31-checkSN_Station==>>Execute Start
+2023-10-27 14:31:31-checkSN_Station==>>Param【SN】【2341ME02R138】
+2023-10-27 14:31:31-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 14:31:31-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【16】ms 
+2023-10-27 14:32:29-sendTestResult==>>Execute Start
+2023-10-27 14:32:29-sendTestResult==>>Param【EMP】【91204127】
+2023-10-27 14:32:29-sendTestResult==>>Param【SN】【2341ME02R138】
+2023-10-27 14:32:29-sendTestResult==>>Param【STATION】【TICO T3.01】
+2023-10-27 14:32:29-sendTestResult==>>Param【RESULT】【NG;HDT627_301_001;】
+2023-10-27 14:32:29-sendTestResult==>>Result【NG;第一次NG LẦN TEST1NG;】 - Exectue Total【16】ms 
+2023-10-27 14:32:46-checkSN_Station==>>Execute Start
+2023-10-27 14:32:46-checkSN_Station==>>Param【SN】【2341ME02R138】
+2023-10-27 14:32:46-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 14:32:46-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【8】ms 
+2023-10-27 14:33:03-sendTestResult==>>Execute Start
+2023-10-27 14:33:03-sendTestResult==>>Param【EMP】【91204127】
+2023-10-27 14:33:03-sendTestResult==>>Param【SN】【2341ME02R138】
+2023-10-27 14:33:03-sendTestResult==>>Param【STATION】【TICO T3.01】
+2023-10-27 14:33:03-sendTestResult==>>Param【RESULT】【NG;HDT627_301_001;】
+2023-10-27 14:33:03-sendTestResult==>>Result【NG;第2次NG LẦN TEST2NG 】 - Exectue Total【31】ms 
+2023-10-27 14:33:08-checkSN_Station==>>Execute Start
+2023-10-27 14:33:08-checkSN_Station==>>Param【SN】【2341ME02R138】
+2023-10-27 14:33:08-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 14:33:08-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【15】ms 
+2023-10-27 14:33:20-sendTestResult==>>Execute Start
+2023-10-27 14:33:20-sendTestResult==>>Param【EMP】【91204127】
+2023-10-27 14:33:20-sendTestResult==>>Param【SN】【2341ME02R138】
+2023-10-27 14:33:20-sendTestResult==>>Param【STATION】【TICO T3.01】
+2023-10-27 14:33:20-sendTestResult==>>Param【RESULT】【NG;HDT627_301_001;】
+2023-10-27 14:33:20-sendTestResult==>>Result【NG;累計NG次數達3次，請維修 TỔNG SỐ LẦN TEST 3, HÀNG CẦN ĐI SỬA 】 - Exectue Total【32】ms 
+2023-10-27 14:40:23-checkEmpNo==>>Execute Start
+2023-10-27 14:40:23-checkEmpNo==>>Param【EMP】【91204127】
+2023-10-27 14:40:23-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 14:40:24-checkEmpNo==>>Result【OK;】 - Exectue Total【48】ms 
+2023-10-27 14:40:24-GetPart==>>Execute Start
+2023-10-27 14:40:24-GetPart==>>Param【WO】【002100037952】
+2023-10-27 14:40:24-GetPart==>>Result【85X627019000】 - Exectue Total【39】ms 
+2023-10-27 14:40:37-checkSN_Station==>>Execute Start
+2023-10-27 14:40:37-checkSN_Station==>>Param【SN】【2341ME02R148】
+2023-10-27 14:40:37-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 14:40:37-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【8】ms 
+2023-10-27 14:40:43-sendTestResult==>>Execute Start
+2023-10-27 14:40:43-sendTestResult==>>Param【EMP】【91204127】
+2023-10-27 14:40:43-sendTestResult==>>Param【SN】【2341ME02R148】
+2023-10-27 14:40:43-sendTestResult==>>Param【STATION】【TICO T3.01】
+2023-10-27 14:40:43-sendTestResult==>>Param【RESULT】【NG;HDT627_301_002;】
+2023-10-27 14:40:43-sendTestResult==>>Result【NG;第一次NG LẦN TEST1NG;】 - Exectue Total【24】ms 
+2023-10-27 14:41:22-checkEmpNo==>>Execute Start
+2023-10-27 14:41:22-checkEmpNo==>>Param【EMP】【91204127】
+2023-10-27 14:41:22-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 14:41:22-checkEmpNo==>>Result【OK;】 - Exectue Total【71】ms 
+2023-10-27 14:41:22-GetPart==>>Execute Start
+2023-10-27 14:41:22-GetPart==>>Param【WO】【002100037952】
+2023-10-27 14:41:22-GetPart==>>Result【85X627019000】 - Exectue Total【16】ms 
+2023-10-27 14:41:37-checkSN_Station==>>Execute Start
+2023-10-27 14:41:37-checkSN_Station==>>Param【SN】【2341ME02R148】
+2023-10-27 14:41:37-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 14:41:37-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【16】ms 
+2023-10-27 14:42:20-checkEmpNo==>>Execute Start
+2023-10-27 14:42:20-checkEmpNo==>>Param【EMP】【91204127】
+2023-10-27 14:42:20-checkEmpNo==>>Param【STATION】【TICO T3.01】
+2023-10-27 14:42:20-checkEmpNo==>>Result【OK;】 - Exectue Total【40】ms 
+2023-10-27 14:42:20-GetPart==>>Execute Start
+2023-10-27 14:42:20-GetPart==>>Param【WO】【002100037952】
+2023-10-27 14:42:20-GetPart==>>Result【85X627019000】 - Exectue Total【8】ms 
+2023-10-27 14:42:31-checkSN_Station==>>Execute Start
+2023-10-27 14:42:31-checkSN_Station==>>Param【SN】【2341ME02R148】
+2023-10-27 14:42:31-checkSN_Station==>>Param【STATION】【TICO T3.01】
+2023-10-27 14:42:31-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【24】ms 

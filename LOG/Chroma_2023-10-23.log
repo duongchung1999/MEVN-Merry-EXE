@@ -1,0 +1,21 @@
+2023-10-23 11:48:22-checkEmpNo==>>Execute Start
+2023-10-23 11:48:22-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-23 11:48:22-checkEmpNo==>>Param【STATION】【TICO T3.04】
+2023-10-23 11:48:22-checkEmpNo==>>Result【OK;】 - Exectue Total【80】ms 
+2023-10-23 11:48:22-GetPart==>>Execute Start
+2023-10-23 11:48:22-GetPart==>>Param【WO】【006270008888】
+2023-10-23 11:48:22-GetPart==>>Result【85X627019000】 - Exectue Total【10】ms 
+2023-10-23 11:57:07-checkEmpNo==>>Execute Start
+2023-10-23 11:57:07-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-23 11:57:07-checkEmpNo==>>Param【STATION】【TICO T3.04】
+2023-10-23 11:57:07-checkEmpNo==>>Result【OK;】 - Exectue Total【35】ms 
+2023-10-23 11:57:07-GetPart==>>Execute Start
+2023-10-23 11:57:07-GetPart==>>Param【WO】【006270008888】
+2023-10-23 11:57:07-GetPart==>>Result【85X627019000】 - Exectue Total【9】ms 
+2023-10-23 13:05:19-checkEmpNo==>>Execute Start
+2023-10-23 13:05:19-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-23 13:05:19-checkEmpNo==>>Param【STATION】【TICO T3.04】
+2023-10-23 13:05:19-checkEmpNo==>>Result【OK;】 - Exectue Total【92】ms 
+2023-10-23 13:05:19-GetPart==>>Execute Start
+2023-10-23 13:05:19-GetPart==>>Param【WO】【006270008888】
+2023-10-23 13:05:19-GetPart==>>Result【85X627019000】 - Exectue Total【9】ms 

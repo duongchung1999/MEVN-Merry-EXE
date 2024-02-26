@@ -1,0 +1,280 @@
+2023 09 19 11 53 14	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 11 53 14	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 11 53 18	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 11 53 18	1、False
+2023 09 19 11 56 10	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 11 56 10	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 11 56 14	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 11 56 14	1、False
+2023 09 19 11 58 41	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 11 58 41	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 11 58 45	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 11 58 45	1、False
+2023 09 19 11 59 20	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 11 59 20	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 11 59 24	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 11 59 24	1、False
+2023 09 19 12 12 38	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 12 12 38	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 12 12 59	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 12 12 59	1、False
+2023 09 19 12 28 52	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 12 28 52	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 12 29 25	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 12 29 25	1、False
+2023 09 19 13 40 20	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 13 40 20	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 13 40 38	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 13 40 38	1、False
+2023 09 19 13 42 07	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 13 42 07	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 13 42 12	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 13 42 12	1、False
+2023 09 19 14 08 26	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 14 08 26	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 14 08 38	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 14 08 38	1、False
+2023 09 19 14 09 46	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 14 09 46	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 14 09 50	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 14 09 50	1、False
+2023 09 19 15 08 05	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 08 05	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 08 10	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 08 10	1、False
+2023 09 19 15 10 10	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 10 10	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 10 14	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 10 14	2、False
+2023 09 19 15 10 35	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 10 35	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 10 39	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 10 39	1、False
+2023 09 19 15 12 14	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 12 14	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 12 18	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 12 18	3、False
+2023 09 19 15 12 39	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 12 39	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 12 43	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 12 43	2、False
+2023 09 19 15 14 18	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 14 18	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 14 22	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 14 22	4、False
+2023 09 19 15 14 43	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 14 43	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 14 47	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 14 47	3、False
+2023 09 19 15 16 22	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 16 22	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 16 26	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 16 26	5、False
+2023 09 19 15 16 47	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 16 47	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 16 51	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 16 51	4、False
+2023 09 19 15 18 26	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 18 26	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 18 30	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 18 30	6、False
+2023 09 19 15 18 51	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 18 51	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 18 55	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 18 55	5、False
+2023 09 19 15 20 30	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 20 30	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 20 34	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 20 34	7、False
+2023 09 19 15 20 55	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 20 55	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 20 59	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 20 59	6、False
+2023 09 19 15 22 34	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 22 34	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 22 38	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 22 38	8、False
+2023 09 19 15 22 59	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 22 59	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 23 03	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 23 03	7、False
+2023 09 19 15 24 38	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 24 38	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 24 42	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 24 42	9、False
+2023 09 19 15 25 03	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 25 03	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 25 07	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 25 07	8、False
+2023 09 19 15 36 30	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 36 30	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 36 34	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 36 34	1、False
+2023 09 19 15 38 34	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 38 34	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 38 38	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 38 38	2、False
+2023 09 19 15 43 11	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 43 11	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 43 15	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 43 15	1、False
+2023 09 19 15 46 07	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 46 07	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 46 11	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 46 11	1、False
+2023 09 19 15 48 11	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 48 11	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 48 15	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 48 15	2、False
+2023 09 19 15 50 27	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 50 27	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 50 31	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 50 31	1、False
+2023 09 19 15 51 13	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 51 13	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 51 17	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 51 17	1、False
+2023 09 19 15 54 20	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 54 20	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 54 24	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 54 24	1、False
+2023 09 19 15 56 12	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 56 12	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 56 16	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 56 16	1、False
+2023 09 19 15 57 44	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 57 44	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 57 48	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 57 48	1、False
+2023 09 19 15 58 32	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 15 58 32	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 15 58 36	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 15 58 36	1、False
+2023 09 19 18 45 21	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 18 45 21	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 18 45 25	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 18 45 25	1、False
+2023 09 19 18 46 53	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 19 18 46 53	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 19 18 46 57	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 19 18 46 57	1、False

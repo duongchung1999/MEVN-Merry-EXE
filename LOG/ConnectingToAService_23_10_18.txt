@@ -1,0 +1,37 @@
+2023 10 18 09 25 19	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 18 09 25 19	Writedata:{"model":"HDT627","station":"TICO T3.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 18 09 25 19	1、404 资产管理系统无该电脑编号
+2023 10 18 09 26 51	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 18 09 26 51	Writedata:{"model":"HDT627","station":"TICO T3.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 18 09 26 51	1、404 资产管理系统无该电脑编号
+2023 10 18 09 29 09	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 18 09 29 23	Writedata:{"model":"HDT627","station":"TICO T3.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 18 09 29 29	2、404 资产管理系统无该电脑编号
+2023 10 18 09 33 39	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 18 09 33 50	Writedata:{"model":"HDT627","station":"TICO T3.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 18 09 34 03	3、404 资产管理系统无该电脑编号
+2023 10 18 09 37 03	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 18 09 37 03	Writedata:{"model":"HDT627","station":"TICO T3.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 18 09 39 54	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 10 18 09 39 54	4、False
+2023 10 18 09 44 35	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 18 09 44 35	Writedata:{"model":"HDT627","station":"TICO T3.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 18 09 44 35	5、404 资产管理系统无该电脑编号
+2023 10 18 10 00 24	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 18 10 00 24	Writedata:{"model":"HDT627","station":"TICO T3.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 18 10 00 24	1、404 资产管理系统无该电脑编号
+2023 10 18 10 05 08	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 18 10 05 08	Writedata:{"model":"HDT627","station":"TICO T3.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 18 10 05 08	2、404 资产管理系统无该电脑编号
+2023 10 18 10 15 46	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 18 10 15 46	Writedata:{"model":"HDT627","station":"TICO T3.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 18 10 15 46	1、404 资产管理系统无该电脑编号
+2023 10 18 10 16 29	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 18 10 16 29	Writedata:{"model":"HDT627","station":"TICO T3.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 18 10 16 29	1、404 资产管理系统无该电脑编号
+2023 10 18 10 16 45	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 18 10 16 45	Writedata:{"model":"HDT627","station":"TICO T3.11","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 18 10 16 45	1、404 资产管理系统无该电脑编号

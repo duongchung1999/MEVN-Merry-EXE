@@ -1,0 +1,7 @@
+2023-11-17 09:16:25-checkEmpNo==>>Execute Start
+2023-11-17 09:16:25-checkEmpNo==>>Param【EMP】【91201975】
+2023-11-17 09:16:25-checkEmpNo==>>Param【STATION】【TICO T3.11】
+2023-11-17 09:16:25-checkEmpNo==>>Result【OK;】 - Exectue Total【66】ms 
+2023-11-17 09:16:25-GetPart==>>Execute Start
+2023-11-17 09:16:25-GetPart==>>Param【WO】【002100037952】
+2023-11-17 09:16:25-GetPart==>>Result【85X627019000】 - Exectue Total【8】ms 

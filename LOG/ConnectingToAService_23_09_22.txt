@@ -1,0 +1,7 @@
+2023 09 22 11 03 16	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 09 22 11 03 16	Writedata:{"model":"HDT647","station":"T2.4","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 09 22 11 03 20	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 09 22 11 03 20	1、False

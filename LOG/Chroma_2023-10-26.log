@@ -1,0 +1,28 @@
+2023-10-26 08:44:00-Query_Link_SN==>>Execute Start
+2023-10-26 08:44:00-Query_Link_SN==>>Param【TSN】【2343ME00KKX8】
+2023-10-26 08:44:00-Query_Link_SN==>>Param【Stype】【11】
+2023-10-26 08:44:00-Query_Link_SN==>>Result【OK;TX2343005798】 - Exectue Total【44】ms 
+2023-10-26 08:44:04-Query_Link_SN==>>Execute Start
+2023-10-26 08:44:04-Query_Link_SN==>>Param【TSN】【2343ME00KKX8】
+2023-10-26 08:44:04-Query_Link_SN==>>Param【Stype】【11】
+2023-10-26 08:44:04-Query_Link_SN==>>Result【OK;TX2343005798】 - Exectue Total【13】ms 
+2023-10-26 08:44:34-Query_Link_SN==>>Execute Start
+2023-10-26 08:44:34-Query_Link_SN==>>Param【TSN】【2343ME00KKX8】
+2023-10-26 08:44:34-Query_Link_SN==>>Param【Stype】【11】
+2023-10-26 08:44:34-Query_Link_SN==>>Result【OK;TX2343005798】 - Exectue Total【14】ms 
+2023-10-26 08:48:39-Query_Link_SN==>>Execute Start
+2023-10-26 08:48:39-Query_Link_SN==>>Param【TSN】【2343ME00KKX8】
+2023-10-26 08:48:39-Query_Link_SN==>>Param【Stype】【11】
+2023-10-26 08:48:39-Query_Link_SN==>>Result【OK;TX2343005798】 - Exectue Total【17】ms 
+2023-10-26 08:50:22-Query_Link_SN==>>Execute Start
+2023-10-26 08:50:22-Query_Link_SN==>>Param【TSN】【2343ME00KU28】
+2023-10-26 08:50:22-Query_Link_SN==>>Param【Stype】【11】
+2023-10-26 08:50:22-Query_Link_SN==>>Result【OK;TX2343005543】 - Exectue Total【24】ms 
+2023-10-26 08:50:36-Query_Link_SN==>>Execute Start
+2023-10-26 08:50:36-Query_Link_SN==>>Param【TSN】【2343ME00KU28】
+2023-10-26 08:50:36-Query_Link_SN==>>Param【Stype】【11】
+2023-10-26 08:50:36-Query_Link_SN==>>Result【OK;TX2343005543】 - Exectue Total【21】ms 
+2023-10-26 08:51:17-Query_Link_SN==>>Execute Start
+2023-10-26 08:51:17-Query_Link_SN==>>Param【TSN】【2343ME00KU48】
+2023-10-26 08:51:17-Query_Link_SN==>>Param【Stype】【11】
+2023-10-26 08:51:17-Query_Link_SN==>>Result【OK;TX2343005506】 - Exectue Total【20】ms 

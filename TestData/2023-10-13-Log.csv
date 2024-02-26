@@ -1,0 +1,125 @@
+﻿TestID,SN,Time,Result,,,,测试项目,msg1,,,,单位,N/A,,,,数值下限,N/A,,,,数值上限,N/A,
+1,,08: 16: 59,True,True,
+2,,08: 17: 00,False,False,
+3,,08: 17: 01,False,False,
+4,,08: 17: 03,True,True,
+5,,08: 17: 04,False,False,
+6,,08: 17: 05,True,True,
+1,TE_BZP_EN_TEST,01: 55: 52,False,True,V3.0.1.12,40589977BEAD,True,FalseSystem.Exception: Change to Remote fail
+   at AWHID.AW_HID_OTA.setRemoteMode(Boolean is_remote)
+   at AWHID.AW_HID_OTA.AW_GET_CUST_VERSION(Boolean is_headset, String name)
+   at MerryDllFramework.MerryDll.ReadFW(),,,,,,,,,,True,
+1,TE_BZP_EN_TEST,02: 00: 06,False,True,V3.0.1.12,40589977BEAD,True,FalseSystem.Exception: Change to Remote fail
+   at AWHID.AW_HID_OTA.setRemoteMode(Boolean is_remote)
+   at AWHID.AW_HID_OTA.AW_GET_CUST_VERSION(Boolean is_headset, String name)
+   at MerryDllFramework.MerryDll.ReadFW(),,,,,,,,,,True,
+1,TE_BZP_EN_TEST,02: 00: 17,False,True,FalseSystem.Exception: Change to Remote fail
+   at AWHID.AW_HID_OTA.setRemoteMode(Boolean is_remote)
+   at AWHID.AW_HID_OTA.AW_GET_CUST_VERSION(Boolean is_headset, String name)
+   at MerryDllFramework.MerryDll.ReadFW(),,,,,,,,,,,,,True,
+1,TE_BZP_EN_TEST,02: 00: 28,False,True,FalseSystem.Exception: Change to Remote fail
+   at AWHID.AW_HID_OTA.setRemoteMode(Boolean is_remote)
+   at AWHID.AW_HID_OTA.AW_GET_CUST_VERSION(Boolean is_headset, String name)
+   at MerryDllFramework.MerryDll.ReadFW(),,,,,,,,,,,,,True,
+1,TE_BZP_EN_TEST,02: 26: 49,False,True,V3.0.1.12,40589977BECF,True,V3.0.1.12,True,FalseSystem.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at MerryDllFramework.MerryDll.LEDTest(Int32 index),,,,,,,,True,
+1,TE_BZP_EN_TEST,02: 28: 37,True,True,V3.0.1.12,40589977BECF,True,V3.0.1.12,True,True,True,True,True,True,True,True,True,True,
+1,TE_BZP_EN_TEST,02: 30: 08,False,True,V3.0.1.12,40589977BECF,True,V3.0.1.12,True,FalseSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryTest.MoreTestAPI.AllDLLs.EnventAllDllRun(Int32 TestID, String dllName, String method, Object[] parameter, Boolean& isError, Exception& error)
+   at MerryTest.MoreTestAPI.AllDLLs.AllDllRun(Int32 TestID, String dllName, String method, Object[] parameter)
+   at MerryDllFramework.MerryDll.LEDTest(Int32 index),,,,,,,,True,
+1,TE_BZP_EN_TEST,02: 31: 23,False,True,V3.0.1.12,40589949B483,True,V3.0.1.12,True,FalseSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryTest.MoreTestAPI.AllDLLs.EnventAllDllRun(Int32 TestID, String dllName, String method, Object[] parameter, Boolean& isError, Exception& error)
+   at MerryTest.MoreTestAPI.AllDLLs.AllDllRun(Int32 TestID, String dllName, String method, Object[] parameter)
+   at MerryDllFramework.MerryDll.LEDTest(Int32 index),,,,,,,,True,
+1,TE_BZP_EN_TEST,02: 51: 24,False,True,V3.0.1.12,40589977BECF,True,V3.0.1.12,True,FalseSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.AllDLLs.EnventAllDllRun(Int32 TestID, String dllName, String method, Object[] parameter, Boolean& isError, Exception& error)
+   at MerryDllFramework.AllDLLs.AllDllRun(Int32 TestID, String dllName, String method, Object[] parameter)
+   at MerryDllFramework.MerryDll.LEDTest(Int32 index),,,,,,,,True,
+1,TE_BZP_EN_TEST,02: 53: 08,False,True,V3.0.1.12,40589977BECF,True,V3.0.1.12,True,FalseSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.AllDLL.LoadDll(String dllName, String path)
+   at MerryDllFramework.AllDLLs.LoadDll(Int32 TestID, String dllName, String path)
+   at MerryDllFramework.AllDLLs.EnventAllDllRun(Int32 TestID, String dllName, String method, Object[] parameter, Boolean& isError, Exception& error)
+   at MerryDllFramework.AllDLLs.AllDllRun(Int32 TestID, String dllName, String method, Object[] parameter)
+   at MerryDllFramework.MerryDll.LEDTest(Int32 index),,,,,,,,True,
+1,TE_BZP_EN_TEST,02: 56: 04,False,True,V3.0.1.12,40589977BECF,True,V3.0.1.12,True,FalseSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.AllDLL.LoadDll(String dllName, String path)
+   at MerryDllFramework.AllDLLs.LoadDll(Int32 TestID, String dllName, String path)
+   at MerryDllFramework.AllDLLs.EnventAllDllRun(Int32 TestID, String dllName, String method, Object[] parameter, Boolean& isError, Exception& error)
+   at MerryDllFramework.AllDLLs.AllDllRun(Int32 TestID, String dllName, String method, Object[] parameter)
+   at MerryDllFramework.MerryDll.LEDTest(Int32 index),,,,,,,,True,
+2,TE_BZP_EN_TEST,02: 56: 28,False,True,V3.0.1.12,40589977BECF,True,V3.0.1.12,True,FalseSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.AllDLL.LoadDll(String dllName, String path)
+   at MerryDllFramework.AllDLLs.LoadDll(Int32 TestID, String dllName, String path)
+   at MerryDllFramework.AllDLLs.EnventAllDllRun(Int32 TestID, String dllName, String method, Object[] parameter, Boolean& isError, Exception& error)
+   at MerryDllFramework.AllDLLs.AllDllRun(Int32 TestID, String dllName, String method, Object[] parameter)
+   at MerryDllFramework.MerryDll.LEDTest(Int32 index),,,,,,,,True,
+2,TE_BZP_EN_TEST,02: 57: 33,False,True,V3.0.1.12,40589949B483,True,V3.0.1.12,True,FalseSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.AllDLL.LoadDll(String dllName, String path)
+   at MerryDllFramework.AllDLLs.LoadDll(Int32 TestID, String dllName, String path)
+   at MerryDllFramework.AllDLLs.EnventAllDllRun(Int32 TestID, String dllName, String method, Object[] parameter, Boolean& isError, Exception& error)
+   at MerryDllFramework.AllDLLs.AllDllRun(Int32 TestID, String dllName, String method, Object[] parameter)
+   at MerryDllFramework.MerryDll.LEDTest(Int32 index),,,,,,,,True,
+2,TE_BZP_EN_TEST,03: 05: 08,False,True,V3.0.1.12,40589949B483,True,V3.0.1.12,True,FalseSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.AllDLL.LoadDll(String dllName, String path)
+   at MerryDllFramework.AllDLLs.LoadDll(Int32 TestID, String dllName, String path)
+   at MerryDllFramework.AllDLLs.EnventAllDllRun(Int32 TestID, String dllName, String method, Object[] parameter, Boolean& isError, Exception& error)
+   at MerryDllFramework.AllDLLs.AllDllRun(Int32 TestID, String dllName, String method, Object[] parameter)
+   at MerryDllFramework.MerryDll.LEDTest(Int32 index),,,,,,,,True,
+1,TE_BZP_EN_TEST,03: 40: 13,False,True,V3.0.1.12,40589977BECF,True,V3.0.1.12,True,FalseSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.AllDLL.LoadDll(String dllName, String path)
+   at MerryDllFramework.AllDLLs.LoadDll(Int32 TestID, String dllName, String path)
+   at MerryDllFramework.MerryDll.LEDTest(Int32 index),,,,,,,,True,
+1,TE_BZP_EN_TEST,03: 47: 35,False,True,V3.0.1.12,40589977BECF,True,V3.0.1.12,True,FalseSystem.NullReferenceException: Object reference not set to an instance of an object.
+   at MerryDllFramework.AllDLL.LoadDll(String dllName, String path)
+   at MerryDllFramework.AllDLLs.LoadDll(Int32 TestID, String dllName, String path)
+   at MerryDllFramework.MerryDll.LEDTest(Int32 index),,,,,,,,True,
+1,TE_BZP_EN_TEST,04: 38: 47,True,True,V3.0.1.12,40589977BECF,True,V3.0.1.12,True,True,True,True,True,True,True,True,True,True,True,True,
+1,TE_BZP_EN_TEST,04: 43: 36,False,True,V3.0.1.12,40589977BECF,True,V3.0.1.12,True,True,True,True,True,True,False,,,,,True,
+1,TE_BZP_EN_TEST,04: 46: 07,True,True,V3.0.1.12,40589949B483,True,V3.0.1.12,True,True,True,True,True,True,True,True,True,True,True,True,
+2,TE_BZP_EN_TEST,04: 47: 08,True,True,V3.0.1.12,40589977BEAD,True,V3.0.1.12,True,True,True,True,True,True,True,True,True,True,True,True,
+1,,04: 49: 15,False,True,V3.0.1.12,40589977BEAD,True,V3.0.1.12,True,True,True,True,True,FalseSystem.Exception: no event reply
+   at TwsTester.Rules.ObjectConfigRule.CustomizeDispatcher(Byte row_param, String ivk, Int32 flags_tag, Boolean deleteselection2)
+   at TwsTester.Rules.ObjectConfigRule.RegisterDispatcher(Int32 info_counter)
+   at AWHID.AW_HID_OTA.isRemote()
+   at AWHID.AW_HID_OTA.setRemoteMode(Boolean is_remote)
+   at AWHID.AW_HID_OTA.AW_SET_LED_MODE(Boolean is_headset, Byte cmd_id)
+   at MerryDllFramework.MerryDll.LEDTest(Int32 index),,,,,,True,
+2,,04: 49: 30,False,True,V3.0.1.12,40589977BECF,True,V3.0.1.12,True,True,True,FalseSystem.Exception: no event reply
+   at TwsTester.Rules.ObjectConfigRule.CustomizeDispatcher(Byte row_param, String ivk, Int32 flags_tag, Boolean deleteselection2)
+   at TwsTester.Rules.ObjectConfigRule.RegisterDispatcher(Int32 info_counter)
+   at AWHID.AW_HID_OTA.isRemote()
+   at AWHID.AW_HID_OTA.setRemoteMode(Boolean is_remote)
+   at AWHID.AW_HID_OTA.AW_SET_LED_MODE(Boolean is_headset, Byte cmd_id)
+   at MerryDllFramework.MerryDll.LEDTest(Int32 index),,,,,,,,True,
+1,,04: 49: 55,False,True,V3.0.1.12,40589949B486,True,V3.0.1.12,True,True,True,True,True,FalseSystem.Exception: no event reply
+   at TwsTester.Rules.ObjectConfigRule.CustomizeDispatcher(Byte row_param, String ivk, Int32 flags_tag, Boolean deleteselection2)
+   at TwsTester.Rules.ObjectConfigRule.RegisterDispatcher(Int32 info_counter)
+   at AWHID.AW_HID_OTA.isRemote()
+   at AWHID.AW_HID_OTA.setRemoteMode(Boolean is_remote)
+   at AWHID.AW_HID_OTA.AW_SET_LED_MODE(Boolean is_headset, Byte cmd_id)
+   at MerryDllFramework.MerryDll.LEDTest(Int32 index),,,,,,True,
+2,,04: 50: 05,False,True,V3.0.1.12,40589949B483,True,V3.0.1.12,True,True,True,FalseSystem.Exception: no event reply
+   at TwsTester.Rules.ObjectConfigRule.CustomizeDispatcher(Byte row_param, String ivk, Int32 flags_tag, Boolean deleteselection2)
+   at TwsTester.Rules.ObjectConfigRule.RegisterDispatcher(Int32 info_counter)
+   at AWHID.AW_HID_OTA.isRemote()
+   at AWHID.AW_HID_OTA.setRemoteMode(Boolean is_remote)
+   at AWHID.AW_HID_OTA.AW_SET_LED_MODE(Boolean is_headset, Byte cmd_id)
+   at MerryDllFramework.MerryDll.LEDTest(Int32 index),,,,,,,,True,
+1,,05: 32: 41,True,True,True,
+2,,05: 32: 46,True,True,True,
+1,,05: 33: 36,True,True,True,
+2,,05: 33: 41,True,True,True,
+1,,05: 35: 44,True,True,True,
+2,,05: 35: 45,True,True,True,
+2,,05: 36: 35,True,True,True,
+1,,05: 37: 01,True,True,True,
+3,,05: 37: 02,True,True,True,
+2,,05: 37: 05,True,True,True,
+4,,05: 37: 06,True,True,True,
+5,,05: 37: 06,True,True,True,
+6,,05: 37: 07,True,True,True,
+2,,05: 37: 38,True,True,True,
+4,,05: 37: 39,False,False,,
+3,,05: 37: 40,False,True,False,

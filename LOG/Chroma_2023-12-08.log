@@ -1,0 +1,49 @@
+2023-12-08 18:02:31-checkEmpNo==>>Execute Start
+2023-12-08 18:02:31-checkEmpNo==>>Param【EMP】【91201975】
+2023-12-08 18:02:31-checkEmpNo==>>Param【STATION】【Core pack】
+2023-12-08 18:02:31-checkEmpNo==>>Result【OK;】 - Exectue Total【50】ms 
+2023-12-08 18:02:31-GetPart==>>Execute Start
+2023-12-08 18:02:31-GetPart==>>Param【WO】【000000000000】
+2023-12-08 18:02:32-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【15】ms 
+2023-12-08 18:06:35-checkEmpNo==>>Execute Start
+2023-12-08 18:06:35-checkEmpNo==>>Param【EMP】【91201975】
+2023-12-08 18:06:35-checkEmpNo==>>Param【STATION】【Core pack】
+2023-12-08 18:06:35-checkEmpNo==>>Result【OK;】 - Exectue Total【38】ms 
+2023-12-08 18:06:35-GetPart==>>Execute Start
+2023-12-08 18:06:35-GetPart==>>Param【WO】【000000000000】
+2023-12-08 18:06:35-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【9】ms 
+2023-12-08 18:07:10-checkEmpNo==>>Execute Start
+2023-12-08 18:07:10-checkEmpNo==>>Param【EMP】【91201975】
+2023-12-08 18:07:10-checkEmpNo==>>Param【STATION】【Core pack】
+2023-12-08 18:07:10-checkEmpNo==>>Result【OK;】 - Exectue Total【32】ms 
+2023-12-08 18:07:10-GetPart==>>Execute Start
+2023-12-08 18:07:10-GetPart==>>Param【WO】【000000000000】
+2023-12-08 18:07:10-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【8】ms 
+2023-12-08 18:09:07-checkEmpNo==>>Execute Start
+2023-12-08 18:09:07-checkEmpNo==>>Param【EMP】【91201975】
+2023-12-08 18:09:07-checkEmpNo==>>Param【STATION】【Core pack】
+2023-12-08 18:09:07-checkEmpNo==>>Result【OK;】 - Exectue Total【34】ms 
+2023-12-08 18:09:07-GetPart==>>Execute Start
+2023-12-08 18:09:07-GetPart==>>Param【WO】【000000000000】
+2023-12-08 18:09:07-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【8】ms 
+2023-12-08 18:22:59-checkEmpNo==>>Execute Start
+2023-12-08 18:22:59-checkEmpNo==>>Param【EMP】【91201975】
+2023-12-08 18:22:59-checkEmpNo==>>Param【STATION】【Core pack】
+2023-12-08 18:22:59-checkEmpNo==>>Result【OK;】 - Exectue Total【37】ms 
+2023-12-08 18:22:59-GetPart==>>Execute Start
+2023-12-08 18:22:59-GetPart==>>Param【WO】【000000000000】
+2023-12-08 18:22:59-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【11】ms 
+2023-12-08 18:23:20-checkEmpNo==>>Execute Start
+2023-12-08 18:23:20-checkEmpNo==>>Param【EMP】【91201975】
+2023-12-08 18:23:20-checkEmpNo==>>Param【STATION】【FOD】
+2023-12-08 18:23:20-checkEmpNo==>>Result【OK;】 - Exectue Total【35】ms 
+2023-12-08 18:23:20-GetPart==>>Execute Start
+2023-12-08 18:23:20-GetPart==>>Param【WO】【000000000000】
+2023-12-08 18:23:20-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【11】ms 
+2023-12-08 18:23:45-checkEmpNo==>>Execute Start
+2023-12-08 18:23:45-checkEmpNo==>>Param【EMP】【91201975】
+2023-12-08 18:23:45-checkEmpNo==>>Param【STATION】【Final Pack】
+2023-12-08 18:23:45-checkEmpNo==>>Result【OK;】 - Exectue Total【36】ms 
+2023-12-08 18:23:45-GetPart==>>Execute Start
+2023-12-08 18:23:45-GetPart==>>Param【WO】【000000000000】
+2023-12-08 18:23:45-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【9】ms 

@@ -1,0 +1,176 @@
+2023-10-21 14:40:36-checkEmpNo==>>Execute Start
+2023-10-21 14:40:36-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-21 14:40:36-checkEmpNo==>>Param【STATION】【TICO T3.04】
+2023-10-21 14:40:36-checkEmpNo==>>Result【OK;】 - Exectue Total【70】ms 
+2023-10-21 14:40:36-GetPart==>>Execute Start
+2023-10-21 14:40:36-GetPart==>>Param【WO】【006270008888】
+2023-10-21 14:40:36-GetPart==>>Result【85X627019000】 - Exectue Total【9】ms 
+2023-10-21 15:53:40-checkEmpNo==>>Execute Start
+2023-10-21 15:53:40-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-21 15:53:40-checkEmpNo==>>Param【STATION】【TICO T3.04】
+2023-10-21 15:53:40-checkEmpNo==>>Result【OK;】 - Exectue Total【40】ms 
+2023-10-21 15:53:40-GetPart==>>Execute Start
+2023-10-21 15:53:40-GetPart==>>Param【WO】【006270008888】
+2023-10-21 15:53:40-GetPart==>>Result【85X627019000】 - Exectue Total【9】ms 
+2023-10-21 15:57:47-Query_Link_SN==>>Execute Start
+2023-10-21 15:57:47-Query_Link_SN==>>Param【TSN】【2341ME02R158】
+2023-10-21 15:57:47-Query_Link_SN==>>Param【Stype】【11】
+2023-10-21 15:57:47-Query_Link_SN==>>Result【NG;No data found】 - Exectue Total【15】ms 
+2023-10-21 15:58:00-Query_Link_SN==>>Execute Start
+2023-10-21 15:58:00-Query_Link_SN==>>Param【TSN】【TX2341014321】
+2023-10-21 15:58:00-Query_Link_SN==>>Param【Stype】【10】
+2023-10-21 15:58:00-Query_Link_SN==>>Result【NG;No data found】 - Exectue Total【40】ms 
+2023-10-21 15:58:05-InsertDCSN==>>Execute Start
+2023-10-21 15:58:05-InsertDCSN==>>Param【SN】【2341ME02R158】
+2023-10-21 15:58:05-InsertDCSN==>>Param【TKPSNTYPE】【11】
+2023-10-21 15:58:05-InsertDCSN==>>Param【TKPSN】【TX2341014321】
+2023-10-21 15:58:05-InsertDCSN==>>Result【NG;Batery SN NOT END;】 - Exectue Total【13】ms 
+2023-10-21 16:58:00-checkEmpNo==>>Execute Start
+2023-10-21 16:58:00-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-21 16:58:00-checkEmpNo==>>Param【STATION】【TICO T3.04】
+2023-10-21 16:58:01-checkEmpNo==>>Result【OK;】 - Exectue Total【38】ms 
+2023-10-21 16:58:01-GetPart==>>Execute Start
+2023-10-21 16:58:01-GetPart==>>Param【WO】【006270008888】
+2023-10-21 16:58:01-GetPart==>>Result【85X627019000】 - Exectue Total【11】ms 
+2023-10-21 16:58:48-Query_Link_SN==>>Execute Start
+2023-10-21 16:58:48-Query_Link_SN==>>Param【TSN】【2341ME02R158】
+2023-10-21 16:58:48-Query_Link_SN==>>Param【Stype】【11】
+2023-10-21 16:58:48-Query_Link_SN==>>Result【NG;No data found】 - Exectue Total【14】ms 
+2023-10-21 16:59:01-Query_Link_SN==>>Execute Start
+2023-10-21 16:59:01-Query_Link_SN==>>Param【TSN】【TX2341014321】
+2023-10-21 16:59:01-Query_Link_SN==>>Param【Stype】【10】
+2023-10-21 16:59:01-Query_Link_SN==>>Result【NG;No data found】 - Exectue Total【42】ms 
+2023-10-21 16:59:39-InsertDCSN==>>Execute Start
+2023-10-21 16:59:39-InsertDCSN==>>Param【SN】【2341ME02R158】
+2023-10-21 16:59:39-InsertDCSN==>>Param【TKPSNTYPE】【11】
+2023-10-21 16:59:39-InsertDCSN==>>Param【TKPSN】【TX2341014321】
+2023-10-21 16:59:39-InsertDCSN==>>Result【NG;Batery SN NOT END;】 - Exectue Total【11】ms 
+2023-10-21 17:01:08-checkEmpNo==>>Execute Start
+2023-10-21 17:01:08-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-21 17:01:08-checkEmpNo==>>Param【STATION】【TICO T3.04】
+2023-10-21 17:01:08-checkEmpNo==>>Result【OK;】 - Exectue Total【36】ms 
+2023-10-21 17:01:08-GetPart==>>Execute Start
+2023-10-21 17:01:08-GetPart==>>Param【WO】【006270008888】
+2023-10-21 17:01:08-GetPart==>>Result【85X627019000】 - Exectue Total【9】ms 
+2023-10-21 17:02:48-Query_Link_SN==>>Execute Start
+2023-10-21 17:02:48-Query_Link_SN==>>Param【TSN】【2341ME02R0X8】
+2023-10-21 17:02:48-Query_Link_SN==>>Param【Stype】【11】
+2023-10-21 17:02:48-Query_Link_SN==>>Result【NG;No data found】 - Exectue Total【18】ms 
+2023-10-21 17:02:49-Query_Link_SN==>>Execute Start
+2023-10-21 17:02:49-Query_Link_SN==>>Param【TSN】【TX2341014312】
+2023-10-21 17:02:49-Query_Link_SN==>>Param【Stype】【10】
+2023-10-21 17:02:49-Query_Link_SN==>>Result【NG;No data found】 - Exectue Total【10】ms 
+2023-10-21 17:05:55-checkEmpNo==>>Execute Start
+2023-10-21 17:05:55-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-21 17:05:55-checkEmpNo==>>Param【STATION】【TICO T3.04】
+2023-10-21 17:05:55-checkEmpNo==>>Result【OK;】 - Exectue Total【37】ms 
+2023-10-21 17:05:55-GetPart==>>Execute Start
+2023-10-21 17:05:55-GetPart==>>Param【WO】【006270008888】
+2023-10-21 17:05:55-GetPart==>>Result【85X627019000】 - Exectue Total【10】ms 
+2023-10-21 17:06:39-Query_Link_SN==>>Execute Start
+2023-10-21 17:06:39-Query_Link_SN==>>Param【TSN】【2341ME02R0X8】
+2023-10-21 17:06:39-Query_Link_SN==>>Param【Stype】【11】
+2023-10-21 17:06:39-Query_Link_SN==>>Result【NG;No data found】 - Exectue Total【12】ms 
+2023-10-21 17:06:39-Query_Link_SN==>>Execute Start
+2023-10-21 17:06:39-Query_Link_SN==>>Param【TSN】【TX2341014312】
+2023-10-21 17:06:39-Query_Link_SN==>>Param【Stype】【10】
+2023-10-21 17:06:40-Query_Link_SN==>>Result【NG;No data found】 - Exectue Total【316】ms 
+2023-10-21 17:06:43-InsertDCSN==>>Execute Start
+2023-10-21 17:06:43-InsertDCSN==>>Param【SN】【2341ME02R0X8】
+2023-10-21 17:06:43-InsertDCSN==>>Param【TKPSNTYPE】【11】
+2023-10-21 17:06:43-InsertDCSN==>>Param【TKPSN】【TX2341014312】
+2023-10-21 17:06:43-InsertDCSN==>>Result【NG,WO BOM IS NULL:2341ME02R0X8,WORK_ORDER/SAJET.G_WO_BOM】 - Exectue Total【13】ms 
+2023-10-21 17:09:21-checkEmpNo==>>Execute Start
+2023-10-21 17:09:21-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-21 17:09:21-checkEmpNo==>>Param【STATION】【TICO T3.04】
+2023-10-21 17:09:21-checkEmpNo==>>Result【OK;】 - Exectue Total【39】ms 
+2023-10-21 17:09:21-GetPart==>>Execute Start
+2023-10-21 17:09:21-GetPart==>>Param【WO】【006270008888】
+2023-10-21 17:09:21-GetPart==>>Result【85X627019000】 - Exectue Total【9】ms 
+2023-10-21 17:14:54-checkEmpNo==>>Execute Start
+2023-10-21 17:14:54-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-21 17:14:54-checkEmpNo==>>Param【STATION】【TICO T3.04】
+2023-10-21 17:14:54-checkEmpNo==>>Result【OK;】 - Exectue Total【41】ms 
+2023-10-21 17:14:54-GetPart==>>Execute Start
+2023-10-21 17:14:54-GetPart==>>Param【WO】【006270008888】
+2023-10-21 17:14:54-GetPart==>>Result【85X627019000】 - Exectue Total【10】ms 
+2023-10-21 17:15:55-Query_Link_SN==>>Execute Start
+2023-10-21 17:15:55-Query_Link_SN==>>Param【TSN】【2341ME02R0X8】
+2023-10-21 17:15:55-Query_Link_SN==>>Param【Stype】【11】
+2023-10-21 17:15:55-Query_Link_SN==>>Result【NG;No data found】 - Exectue Total【15】ms 
+2023-10-21 17:15:56-Query_Link_SN==>>Execute Start
+2023-10-21 17:15:56-Query_Link_SN==>>Param【TSN】【TX2341014312】
+2023-10-21 17:15:56-Query_Link_SN==>>Param【Stype】【10】
+2023-10-21 17:15:56-Query_Link_SN==>>Result【NG;No data found】 - Exectue Total【10】ms 
+2023-10-21 17:16:13-InsertDCSN==>>Execute Start
+2023-10-21 17:16:13-InsertDCSN==>>Param【SN】【2341ME02R0X8】
+2023-10-21 17:16:13-InsertDCSN==>>Param【TKPSNTYPE】【11】
+2023-10-21 17:16:13-InsertDCSN==>>Param【TKPSN】【TX2341014312】
+2023-10-21 17:16:13-InsertDCSN==>>Result【NG,WO BOM IS NULL:2341ME02R0X8,WORK_ORDER/SAJET.G_WO_BOM】 - Exectue Total【16】ms 
+2023-10-21 17:17:45-checkEmpNo==>>Execute Start
+2023-10-21 17:17:45-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-21 17:17:45-checkEmpNo==>>Param【STATION】【TICO T3.04】
+2023-10-21 17:17:45-checkEmpNo==>>Result【OK;】 - Exectue Total【41】ms 
+2023-10-21 17:17:45-GetPart==>>Execute Start
+2023-10-21 17:17:45-GetPart==>>Param【WO】【006270008888】
+2023-10-21 17:17:45-GetPart==>>Result【85X627019000】 - Exectue Total【10】ms 
+2023-10-21 17:20:54-checkEmpNo==>>Execute Start
+2023-10-21 17:20:54-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-21 17:20:54-checkEmpNo==>>Param【STATION】【TICO T3.04】
+2023-10-21 17:20:54-checkEmpNo==>>Result【OK;】 - Exectue Total【44】ms 
+2023-10-21 17:20:54-GetPart==>>Execute Start
+2023-10-21 17:20:54-GetPart==>>Param【WO】【006270008888】
+2023-10-21 17:20:54-GetPart==>>Result【85X627019000】 - Exectue Total【10】ms 
+2023-10-21 17:21:17-checkSN_Station==>>Execute Start
+2023-10-21 17:21:17-checkSN_Station==>>Param【SN】【2341ME02R0X8】
+2023-10-21 17:21:17-checkSN_Station==>>Param【STATION】【TICO T3.04】
+2023-10-21 17:21:17-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【16】ms 
+2023-10-21 17:22:10-Query_Link_SN==>>Execute Start
+2023-10-21 17:22:10-Query_Link_SN==>>Param【TSN】【2341ME02R0X8】
+2023-10-21 17:22:10-Query_Link_SN==>>Param【Stype】【11】
+2023-10-21 17:22:10-Query_Link_SN==>>Result【NG;No data found】 - Exectue Total【15】ms 
+2023-10-21 17:22:11-Query_Link_SN==>>Execute Start
+2023-10-21 17:22:11-Query_Link_SN==>>Param【TSN】【TX2341014312】
+2023-10-21 17:22:11-Query_Link_SN==>>Param【Stype】【10】
+2023-10-21 17:22:11-Query_Link_SN==>>Result【NG;No data found】 - Exectue Total【15】ms 
+2023-10-21 17:22:18-InsertDCSN==>>Execute Start
+2023-10-21 17:22:18-InsertDCSN==>>Param【SN】【2341ME02R0X8】
+2023-10-21 17:22:18-InsertDCSN==>>Param【TKPSNTYPE】【11】
+2023-10-21 17:22:18-InsertDCSN==>>Param【TKPSN】【TX2341014312】
+2023-10-21 17:22:18-InsertDCSN==>>Result【NG,WO BOM IS NULL:2341ME02R0X8,WORK_ORDER/SAJET.G_WO_BOM】 - Exectue Total【15】ms 
+2023-10-21 17:22:22-sendTestResult==>>Execute Start
+2023-10-21 17:22:22-sendTestResult==>>Param【EMP】【91204140】
+2023-10-21 17:22:22-sendTestResult==>>Param【SN】【2341ME02R0X8】
+2023-10-21 17:22:22-sendTestResult==>>Param【STATION】【TICO T3.04】
+2023-10-21 17:22:22-sendTestResult==>>Param【RESULT】【NG;ST0004;】
+2023-10-21 17:22:22-sendTestResult==>>Result【NG;第一次NG LẦN TEST1NG;】 - Exectue Total【17】ms 
+2023-10-21 17:37:25-checkEmpNo==>>Execute Start
+2023-10-21 17:37:25-checkEmpNo==>>Param【EMP】【91204140】
+2023-10-21 17:37:25-checkEmpNo==>>Param【STATION】【TICO T3.04】
+2023-10-21 17:37:25-checkEmpNo==>>Result【OK;】 - Exectue Total【49】ms 
+2023-10-21 17:37:25-GetPart==>>Execute Start
+2023-10-21 17:37:25-GetPart==>>Param【WO】【006270008888】
+2023-10-21 17:37:25-GetPart==>>Result【85X627019000】 - Exectue Total【10】ms 
+2023-10-21 17:37:42-checkSN_Station==>>Execute Start
+2023-10-21 17:37:42-checkSN_Station==>>Param【SN】【2341ME02R0X8】
+2023-10-21 17:37:42-checkSN_Station==>>Param【STATION】【TICO T3.04】
+2023-10-21 17:37:42-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【9】ms 
+2023-10-21 17:38:03-Query_Link_SN==>>Execute Start
+2023-10-21 17:38:03-Query_Link_SN==>>Param【TSN】【2341ME02R0X8】
+2023-10-21 17:38:03-Query_Link_SN==>>Param【Stype】【11】
+2023-10-21 17:38:03-Query_Link_SN==>>Result【NG;No data found】 - Exectue Total【19】ms 
+2023-10-21 17:38:04-Query_Link_SN==>>Execute Start
+2023-10-21 17:38:04-Query_Link_SN==>>Param【TSN】【TX2341014312】
+2023-10-21 17:38:04-Query_Link_SN==>>Param【Stype】【10】
+2023-10-21 17:38:04-Query_Link_SN==>>Result【NG;No data found】 - Exectue Total【38】ms 
+2023-10-21 17:38:12-InsertDCSN==>>Execute Start
+2023-10-21 17:38:12-InsertDCSN==>>Param【SN】【2341ME02R0X8】
+2023-10-21 17:38:12-InsertDCSN==>>Param【TKPSNTYPE】【11】
+2023-10-21 17:38:12-InsertDCSN==>>Param【TKPSN】【TX2341014312】
+2023-10-21 17:38:12-InsertDCSN==>>Result【OK】 - Exectue Total【39】ms 
+2023-10-21 17:38:16-sendTestResult==>>Execute Start
+2023-10-21 17:38:16-sendTestResult==>>Param【EMP】【91204140】
+2023-10-21 17:38:16-sendTestResult==>>Param【SN】【2341ME02R0X8】
+2023-10-21 17:38:16-sendTestResult==>>Param【STATION】【TICO T3.04】
+2023-10-21 17:38:16-sendTestResult==>>Param【RESULT】【OK;】
+2023-10-21 17:38:16-sendTestResult==>>Result【OK;OK;】 - Exectue Total【39】ms 

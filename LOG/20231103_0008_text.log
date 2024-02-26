@@ -1,0 +1,64 @@
+[15:34:37:026]	caps.InputReportByteLength=5
+[15:34:37:026]	caps.OutputReportByteLength=0
+[15:34:37:026]	attributes.VendorID=0x46D
+[15:34:37:026]	attributes.ProductID=0xACB
+[15:34:37:026]	SerialNumberString=202105190004
+[15:34:37:026]	ManufacturerString=Logitech G series
+[15:34:37:026]	ProductString=G435 Wireless Gaming Headset
+[15:34:37:026]CloseHandleX
+[15:34:37:599]	getCaps=null
+[15:34:37:599]CloseHandleX
+[15:34:38:053]	caps.InputReportByteLength=5
+[15:34:38:053]	caps.OutputReportByteLength=0
+[15:34:38:053]	attributes.VendorID=0x46D
+[15:34:38:053]	attributes.ProductID=0xACB
+[15:34:38:053]	SerialNumberString=202105190004
+[15:34:38:053]	ManufacturerString=Logitech G series
+[15:34:38:053]	ProductString=G435 Wireless Gaming Headset
+[15:34:38:053]CloseHandleX
+[15:34:38:610]	getCaps=null
+[15:34:38:610]CloseHandleX
+[15:34:39:064]	caps.InputReportByteLength=5
+[15:34:39:064]	caps.OutputReportByteLength=0
+[15:34:39:064]	attributes.VendorID=0x46D
+[15:34:39:064]	attributes.ProductID=0xACB
+[15:34:39:065]	SerialNumberString=202105190004
+[15:34:39:066]	ManufacturerString=Logitech G series
+[15:34:39:067]	ProductString=G435 Wireless Gaming Headset
+[15:34:39:067]CloseHandleX
+[15:34:39:626]	getCaps=null
+[15:34:39:626]CloseHandleX
+[15:34:40:076]	caps.InputReportByteLength=5
+[15:34:40:076]	caps.OutputReportByteLength=0
+[15:34:40:076]	attributes.VendorID=0x46D
+[15:34:40:076]	attributes.ProductID=0xACB
+[15:34:40:076]	SerialNumberString=202105190004
+[15:34:40:076]	ManufacturerString=Logitech G series
+[15:34:40:076]	ProductString=G435 Wireless Gaming Headset
+[15:34:40:076]CloseHandleX
+[15:34:40:640]	getCaps=null
+[15:34:40:640]CloseHandleX
+[15:34:41:092]	caps.InputReportByteLength=5
+[15:34:41:092]	caps.OutputReportByteLength=0
+[15:34:41:092]	attributes.VendorID=0x46D
+[15:34:41:092]	attributes.ProductID=0xACB
+[15:34:41:092]	SerialNumberString=202105190004
+[15:34:41:092]	ManufacturerString=Logitech G series
+[15:34:41:092]	ProductString=G435 Wireless Gaming Headset
+[15:34:41:092]CloseHandleX
+[15:34:41:656]	getCaps=null
+[15:34:41:656]CloseHandleX
+[15:34:42:106]	caps.InputReportByteLength=5
+[15:34:42:106]	caps.OutputReportByteLength=0
+[15:34:42:106]	attributes.VendorID=0x46D
+[15:34:42:106]	attributes.ProductID=0xACB
+[15:34:42:106]	SerialNumberString=202105190004
+[15:34:42:106]	ManufacturerString=Logitech G series
+[15:34:42:106]	ProductString=G435 Wireless Gaming Headset
+[15:34:42:106]CloseHandleX
+[15:34:42:667]	getCaps=null
+[15:34:42:667]CloseHandleX
+[15:34:43:636]CloseHandleX
+[15:34:43:636]close_hid_handle
+[15:34:44:176]CloseHandleX
+[15:34:44:176]close_hid_handle

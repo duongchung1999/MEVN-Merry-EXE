@@ -1,0 +1,46 @@
+2023 10 10 13 51 48	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 10 13 51 48	Writedata:{"model":"HDT647","station":"DyTest","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 10 13 51 48	System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A socket operation was attempted to an unreachable host 10.175.5.59:8088
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 10 10 13 51 48	1、False
+2023 10 10 13 53 48	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 10 13 53 48	Writedata:{"model":"HDT647","station":"DyTest","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 10 13 53 48	2、404 资产管理系统无该电脑编号
+2023 10 10 13 55 49	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 10 13 55 49	Writedata:{"model":"HDT647","station":"DyTest","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 10 13 55 49	3、404 资产管理系统无该电脑编号
+2023 10 10 13 57 49	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 10 13 57 49	Writedata:{"model":"HDT647","station":"DyTest","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 10 13 57 49	4、404 资产管理系统无该电脑编号
+2023 10 10 13 59 49	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 10 13 59 49	Writedata:{"model":"HDT647","station":"DyTest","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 10 13 59 49	5、404 资产管理系统无该电脑编号
+2023 10 10 14 13 49	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 10 14 13 49	Writedata:{"model":"HDT647","station":"DyTest","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 10 14 13 49	1、404 资产管理系统无该电脑编号
+2023 10 10 14 14 05	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 10 14 14 05	Writedata:{"model":"HDT647","station":"DyTest","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 10 14 14 06	1、404 资产管理系统无该电脑编号
+2023 10 10 14 15 13	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 10 14 15 13	Writedata:{"model":"HDT647","station":"DyTest","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 10 14 15 13	1、404 资产管理系统无该电脑编号
+2023 10 10 14 17 13	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 10 14 17 13	Writedata:{"model":"HDT647","station":"DyTest","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 10 14 17 13	2、404 资产管理系统无该电脑编号
+2023 10 10 14 19 13	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 10 14 19 13	Writedata:{"model":"HDT647","station":"DyTest","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 10 14 19 13	3、404 资产管理系统无该电脑编号
+2023 10 10 14 21 13	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 10 14 21 13	Writedata:{"model":"HDT647","station":"DyTest","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 10 14 21 13	4、404 资产管理系统无该电脑编号
+2023 10 10 14 23 13	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 10 14 23 13	Writedata:{"model":"HDT647","station":"DyTest","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 10 14 23 13	5、404 资产管理系统无该电脑编号
+2023 10 10 14 25 13	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 10 10 14 25 13	Writedata:{"model":"HDT647","station":"DyTest","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 10 10 14 25 13	6、404 资产管理系统无该电脑编号

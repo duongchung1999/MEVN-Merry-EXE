@@ -1,0 +1,22 @@
+﻿12/8/2023 6:07:12 PM
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at MerryDllFramework.MerryDll.Start(List`1 formsData, IntPtr _handle) in E:\2. MEVNSW\1_SourceCode\17_ZAGG\WCP052\src\WTP052 2023.8.31\MerryDllFramework\MerryDll.cs:line 98
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at MerryTest.SingleTestAPI.API.AllDLL.CallMethod(String TKey, String method, Object[] parameter, Boolean& isError, String& error) in E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\MerryTest\SingleTestAPI\AllDLL.cs:line 157
+WCP052|Start
+12/8/2023 6:09:07 PM
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.Collections.Generic.KeyNotFoundException: The given key was not present in the dictionary.
+   at System.Collections.Generic.Dictionary`2.get_Item(TKey key)
+   at MerryDllFramework.MerryDll.Start(List`1 formsData, IntPtr _handle) in E:\2. MEVNSW\1_SourceCode\17_ZAGG\WCP052\src\WTP052 2023.8.31\MerryDllFramework\MerryDll.cs:line 98
+   --- End of inner exception stack trace ---
+   at System.RuntimeMethodHandle.InvokeMethod(Object target, Object[] arguments, Signature sig, Boolean constructor)
+   at System.Reflection.RuntimeMethodInfo.UnsafeInvokeInternal(Object obj, Object[] parameters, Object[] arguments)
+   at System.Reflection.RuntimeMethodInfo.Invoke(Object obj, BindingFlags invokeAttr, Binder binder, Object[] parameters, CultureInfo culture)
+   at System.Reflection.MethodBase.Invoke(Object obj, Object[] parameters)
+   at MerryTest.SingleTestAPI.API.AllDLL.CallMethod(String TKey, String method, Object[] parameter, Boolean& isError, String& error) in E:\2. MEVNSW\1_SourceCode\8_MerryApplication\MECH\MerryTest 2023.07.15\MerryTest\SingleTestAPI\AllDLL.cs:line 157
+WCP052|Start

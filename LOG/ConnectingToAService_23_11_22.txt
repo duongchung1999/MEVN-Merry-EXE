@@ -1,0 +1,6 @@
+2023 11 22 13 42 11	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 22 13 42 11	Writedata:{"model":"VCS001","station":"TEST","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 22 13 42 11	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 22 13 42 11	1、False

@@ -1,0 +1,4 @@
+﻿TestID,SN,Time,Result,,,,测试项目,充电容量,放电容量,回充容量,,,,单位,mAh,mAh,mAh,,,,数值下限,N/A,1260,800,,,,数值上限,N/A,N/A,N/A,
+,,05: 27: 43,False,3436.56088888889,Input string was not in a correct format. False,,
+,,06: 28: 47,False,3218.41444444444,Input string was not in a correct format. False,,
+,,06: 31: 04,False,3218.41444444444,Input string was not in a correct format. False,,

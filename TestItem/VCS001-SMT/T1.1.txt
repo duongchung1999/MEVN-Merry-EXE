@@ -1,0 +1,44 @@
+0,-+RESET SWITCH,N/A,N/A,N/A,4,dllname=Switch&继电器跳转=0
+0,-1503D OUT12V,N/A,N/A,N/A,6,dllname=_1503D&method=setup&channel=1&Voltage=12&current1=0.5
+0,-SWITCH 30 31,N/A,N/A,N/A,4,dllname=Switch&继电器跳转=30.31
+0,-延時 2s,N/A,N/A,N/A,6,dllname=Common&method=Sleep&时间=2000
+0,-SWITCH 30 31 32,N/A,N/A,N/A,4,dllname=Switch&继电器跳转=30.31.32
+1,TP1018_DCIN_12V|2000,V,11.64,12.36,5,dllname=_8342_V1&method=V_DC&NewRange=50&Count=1
+0,-SWITCH 30 31 17,N/A,N/A,N/A,4,dllname=Switch&继电器跳转=30.31.17
+0,-延時 2s,N/A,N/A,N/A,6,dllname=Common&method=Sleep&时间=2000
+0,-SWITCH 30 31 1,N/A,N/A,N/A,4,dllname=Switch&继电器跳转=30.31.1
+2,TP1019_VCC_IN|2000,V,11.50,12.4,5,dllname=_8342_V1&method=V_DC&NewRange=50&Count=1
+0,-延時 1s,N/A,N/A,N/A,6,dllname=Common&method=Sleep&时间=1000
+3,Standy_current,mA,105,135,6,dllname=_1503D&method=CurrentRead&chanel=1&type=mA
+4,TP108_VDD_CORE|500|30.31.2,V,1.23,1.35,5,dllname=_8342_V1&method=V_DC&NewRange=50&Count=1
+5,TP107_VDD_1V2|500|30.31.3,V,1.128,1.35,5,dllname=_8342_V1&method=V_DC&NewRange=50&Count=1
+6,TP106_VDD_0V6_VTT|500|30.31.4,V,0.6,0.75,5,dllname=_8342_V1&method=V_DC&NewRange=50&Count=1
+7,TP105_VDD_1V8|500|30.31.5,V,1.71,1.91,5,dllname=_8342_V1&method=V_DC&NewRange=50&Count=1
+8,TP1006_VDD_SEN_3V3|500|30.31.6,V,3.21,3.39,5,dllname=_8342_V1&method=V_DC&NewRange=50&Count=1
+9,TP104_VCC_3V3|500|30.31.7,V,3.135,3.45,5,dllname=_8342_V1&method=V_DC&NewRange=50&Count=1
+10,TP704_VDD_2V8|500|30.31.8,V,2.6,2.95,5,dllname=_8342_V1&method=V_DC&NewRange=50&Count=1
+11,TP4216_VDD_SEN_1V8|500|30.31.9,V,1.68,1.9,5,dllname=_8342_V1&method=V_DC&NewRange=50&Count=1
+12,TP703_VDD_SEN_1V2|500|30.31.10,V,1.4,1.62,5,dllname=_8342_V1&method=V_DC&NewRange=50&Count=1
+13,TP4157_1V1_DEFT|500|30.31.11,V,1.00,1.24,5,dllname=_8342_V1&method=V_DC&NewRange=50&Count=1
+14,TP4159_1V2_DDRCK|500|30.31.12,V,1.01,1.35,5,dllname=_8342_V1&method=V_DC&NewRange=50&Count=1
+15,TP4122_VCC3IO_RTC|500|30.31.13,V,3,3.55,5,dllname=_8342_V1&method=V_DC&NewRange=50&Count=1
+16,TP4161_3V3_DFLT|500|30.31.14,V,3,3.61,5,dllname=_8342_V1&method=V_DC&NewRange=50&Count=1
+17,TP4158_1V8_DDRCK|500|30.31.15,V,1.51,1.96,5,dllname=_8342_V1&method=V_DC&NewRange=50&Count=1
+18,TP103_VDD_SEN_3V3_S|500|30.31.16,V,3,3.65,5,dllname=_8342_V1&method=V_DC&NewRange=50&Count=1
+19,TP4129_3V3_MCU|500|30.31.22,V,3,3.65,5,dllname=_8342_V1&method=V_DC&NewRange=50&Count=1
+0,-1s,N/A,N/A,N/A,4,dllname=Common_V1&method=Sleep&millisecond=1000
+0,-延時 5s,N/A,N/A,N/A,6,dllname=Common&method=Sleep&时间=5000
+20,MCU_GD32F310_FW_Version,N/A,V0.00.26,V0.00.26,1,Read_MCU_GD32F310_FW
+21,Check_AST1220_FW_Version,N/A,P1.24.00,P1.24.00,1,Read_AST1220_FW
+22,Check_KL520_FW_Version,N/A,v6.6.21.NV12_192,v6.6.21.NV12_192,1,Read_KL520_FW
+0,SWITCH-|1|30.31.17,N/A,N/A,N/A,4,dllname=Switch&继电器跳转=30.31.17
+23,TP4162_Power_KEY|2000|30.31,N/A,N/A,N/A,1,TP4162_Power_KEY
+0,SWITCH-|1|30.31.18,N/A,N/A,N/A,4,dllname=Switch&继电器跳转=30.31.18
+24,TP4163_MUTE_KEY|2000|30.31,N/A,N/A,N/A,1,TP4163_MUTE_KEY
+0,SWITCH-|1|30.31.19,N/A,N/A,N/A,4,dllname=Switch&继电器跳转=30.31.29
+25,TP4164_VOL_UP_KEY|1000|30.31,N/A,N/A,N/A,1,TP4164_VOL_UP_KEY
+0,SWITCH-|1|30.31.20,N/A,N/A,N/A,4,dllname=Switch&继电器跳转=30.31.20
+26,TP4165_VOL_DOWN_KEY|1000|30.31,N/A,N/A,N/A,1,TP4165_VOL_DOWN_KEY
+0,SWITCH-|1|30.31.21,N/A,N/A,N/A,4,dllname=Switch&继电器跳转=30.31.21
+27,TP4165_Image_Mode_KEY|1000|30.31,N/A,N/A,N/A,1,TP4165_Image_Mode_KEY
+0,-延時 5s,N/A,N/A,N/A,6,dllname=Common&method=Sleep&时间=5000

@@ -1,0 +1,4 @@
+﻿TestID,SN,Time,Result,,,,测试项目,進電子狗DFU模式,進入电子狗模式,LeftRSSI_RF_POWER,進入耳机模式,LeftPower_RF_POWER,退出电子狗DFU模式+,,,,单位,N/A,N/A,N/A,N/A,N/A,N/A,,,,数值下限,N/A,N/A,N/A,N/A,N/A,N/A,,,,数值上限,N/A,N/A,N/A,N/A,N/A,N/A,
+,TE_BZP_RF_JZ,08: 09: 10,False,True,True,-48,True,-48,True,
+,TE_BZP_RF_JZ,08: 26: 46,False,True,True,-42,True,-48,True,
+,TE_BZP_RF_JZ,08: 27: 11,False,True,True,-43,True,-50,True,

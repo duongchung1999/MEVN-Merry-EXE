@@ -1,0 +1,147 @@
+2023-11-07 10:33:57-checkEmpNo==>>Execute Start
+2023-11-07 10:33:57-checkEmpNo==>>Param【EMP】【91201975】
+2023-11-07 10:33:57-checkEmpNo==>>Param【STATION】【T2.3】
+2023-11-07 10:33:57-checkEmpNo==>>Result【OK;】 - Exectue Total【68】ms 
+2023-11-07 10:33:57-GetPart==>>Execute Start
+2023-11-07 10:33:57-GetPart==>>Param【WO】【000000000000】
+2023-11-07 10:33:57-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【9】ms 
+2023-11-07 10:41:28-checkEmpNo==>>Execute Start
+2023-11-07 10:41:28-checkEmpNo==>>Param【EMP】【91201975】
+2023-11-07 10:41:28-checkEmpNo==>>Param【STATION】【T3.0】
+2023-11-07 10:41:28-checkEmpNo==>>Result【OK;】 - Exectue Total【41】ms 
+2023-11-07 10:41:28-GetPart==>>Execute Start
+2023-11-07 10:41:28-GetPart==>>Param【WO】【000000000000】
+2023-11-07 10:41:28-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【8】ms 
+2023-11-07 10:43:03-checkSN_Station==>>Execute Start
+2023-11-07 10:43:03-checkSN_Station==>>Param【SN】【2345ME003YG8】
+2023-11-07 10:43:03-checkSN_Station==>>Param【STATION】【T3.0】
+2023-11-07 10:43:03-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【17】ms 
+2023-11-07 10:47:59-checkEmpNo==>>Execute Start
+2023-11-07 10:47:59-checkEmpNo==>>Param【EMP】【91201975】
+2023-11-07 10:48:00-checkEmpNo==>>Param【STATION】【T3.0】
+2023-11-07 10:48:00-checkEmpNo==>>Result【OK;】 - Exectue Total【71】ms 
+2023-11-07 10:48:00-GetPart==>>Execute Start
+2023-11-07 10:48:00-GetPart==>>Param【WO】【000000000000】
+2023-11-07 10:48:00-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【9】ms 
+2023-11-07 10:48:24-checkSN_Station==>>Execute Start
+2023-11-07 10:48:24-checkSN_Station==>>Param【SN】【2345ME003YG8】
+2023-11-07 10:48:24-checkSN_Station==>>Param【STATION】【T3.0】
+2023-11-07 10:48:24-checkSN_Station==>>Result【NG;[EC999] Route NG:comestic inspection / T3.0TEST;】 - Exectue Total【15】ms 
+2023-11-07 10:48:36-checkSN_Station==>>Execute Start
+2023-11-07 10:48:36-checkSN_Station==>>Param【SN】【2345ME003YU8】
+2023-11-07 10:48:36-checkSN_Station==>>Param【STATION】【T3.0】
+2023-11-07 10:48:36-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【15】ms 
+2023-11-07 10:54:08-checkEmpNo==>>Execute Start
+2023-11-07 10:54:08-checkEmpNo==>>Param【EMP】【91201975】
+2023-11-07 10:54:08-checkEmpNo==>>Param【STATION】【T3.0】
+2023-11-07 10:54:08-checkEmpNo==>>Result【OK;】 - Exectue Total【83】ms 
+2023-11-07 10:54:08-GetPart==>>Execute Start
+2023-11-07 10:54:08-GetPart==>>Param【WO】【000000000000】
+2023-11-07 10:54:08-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【13】ms 
+2023-11-07 10:54:33-checkSN_Station==>>Execute Start
+2023-11-07 10:54:33-checkSN_Station==>>Param【SN】【2345ME008EL8】
+2023-11-07 10:54:33-checkSN_Station==>>Param【STATION】【T3.0】
+2023-11-07 10:54:33-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【11】ms 
+2023-11-07 10:55:45-checkEmpNo==>>Execute Start
+2023-11-07 10:55:45-checkEmpNo==>>Param【EMP】【91201975】
+2023-11-07 10:55:45-checkEmpNo==>>Param【STATION】【T3.0】
+2023-11-07 10:55:45-checkEmpNo==>>Result【OK;】 - Exectue Total【37】ms 
+2023-11-07 10:55:45-GetPart==>>Execute Start
+2023-11-07 10:55:45-GetPart==>>Param【WO】【000000000000】
+2023-11-07 10:55:45-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【8】ms 
+2023-11-07 10:55:54-checkSN_Station==>>Execute Start
+2023-11-07 10:55:54-checkSN_Station==>>Param【SN】【2345ME008EL8】
+2023-11-07 10:55:54-checkSN_Station==>>Param【STATION】【T3.0】
+2023-11-07 10:55:54-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【12】ms 
+2023-11-07 11:49:28-checkEmpNo==>>Execute Start
+2023-11-07 11:49:28-checkEmpNo==>>Param【EMP】【91201975】
+2023-11-07 11:49:28-checkEmpNo==>>Param【STATION】【T3.0】
+2023-11-07 11:49:28-checkEmpNo==>>Result【OK;】 - Exectue Total【66】ms 
+2023-11-07 11:49:28-GetPart==>>Execute Start
+2023-11-07 11:49:28-GetPart==>>Param【WO】【000000000000】
+2023-11-07 11:49:28-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【11】ms 
+2023-11-07 11:49:42-checkSN_Station==>>Execute Start
+2023-11-07 11:49:42-checkSN_Station==>>Param【SN】【2345ME008C68】
+2023-11-07 11:49:42-checkSN_Station==>>Param【STATION】【T3.0】
+2023-11-07 11:49:42-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【13】ms 
+2023-11-07 11:51:04-checkEmpNo==>>Execute Start
+2023-11-07 11:51:04-checkEmpNo==>>Param【EMP】【91201975】
+2023-11-07 11:51:04-checkEmpNo==>>Param【STATION】【T3.0】
+2023-11-07 11:51:04-checkEmpNo==>>Result【OK;】 - Exectue Total【38】ms 
+2023-11-07 11:51:04-GetPart==>>Execute Start
+2023-11-07 11:51:04-GetPart==>>Param【WO】【000000000000】
+2023-11-07 11:51:04-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【10】ms 
+2023-11-07 11:51:11-checkSN_Station==>>Execute Start
+2023-11-07 11:51:11-checkSN_Station==>>Param【SN】【2345ME008C68】
+2023-11-07 11:51:11-checkSN_Station==>>Param【STATION】【T3.0】
+2023-11-07 11:51:11-checkSN_Station==>>Result【OK;OK;】 - Exectue Total【17】ms 
+2023-11-07 13:09:59-checkEmpNo==>>Execute Start
+2023-11-07 13:09:59-checkEmpNo==>>Param【EMP】【91201975】
+2023-11-07 13:09:59-checkEmpNo==>>Param【STATION】【T3.0Test 660】
+2023-11-07 13:09:59-checkEmpNo==>>Result【OK;】 - Exectue Total【37】ms 
+2023-11-07 13:09:59-GetPart==>>Execute Start
+2023-11-07 13:09:59-GetPart==>>Param【WO】【000000000000】
+2023-11-07 13:09:59-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【10】ms 
+2023-11-07 13:10:52-checkEmpNo==>>Execute Start
+2023-11-07 13:10:52-checkEmpNo==>>Param【EMP】【91201975】
+2023-11-07 13:10:52-checkEmpNo==>>Param【STATION】【T3.0Test 660】
+2023-11-07 13:10:52-checkEmpNo==>>Result【OK;】 - Exectue Total【40】ms 
+2023-11-07 13:10:52-GetPart==>>Execute Start
+2023-11-07 13:10:52-GetPart==>>Param【WO】【000000000000】
+2023-11-07 13:10:52-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【16】ms 
+2023-11-07 13:11:34-checkEmpNo==>>Execute Start
+2023-11-07 13:11:34-checkEmpNo==>>Param【EMP】【91201975】
+2023-11-07 13:11:34-checkEmpNo==>>Param【STATION】【T3.0Test 660】
+2023-11-07 13:11:34-checkEmpNo==>>Result【OK;】 - Exectue Total【37】ms 
+2023-11-07 13:11:34-GetPart==>>Execute Start
+2023-11-07 13:11:34-GetPart==>>Param【WO】【000000000000】
+2023-11-07 13:11:34-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【10】ms 
+2023-11-07 13:16:05-checkEmpNo==>>Execute Start
+2023-11-07 13:16:05-checkEmpNo==>>Param【EMP】【91201975】
+2023-11-07 13:16:05-checkEmpNo==>>Param【STATION】【T3.0Test 660】
+2023-11-07 13:16:05-checkEmpNo==>>Result【OK;】 - Exectue Total【42】ms 
+2023-11-07 13:16:05-GetPart==>>Execute Start
+2023-11-07 13:16:05-GetPart==>>Param【WO】【000000000000】
+2023-11-07 13:16:05-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【8】ms 
+2023-11-07 13:54:48-checkEmpNo==>>Execute Start
+2023-11-07 13:54:48-checkEmpNo==>>Param【EMP】【91201975】
+2023-11-07 13:54:48-checkEmpNo==>>Param【STATION】【TICO T3.04】
+2023-11-07 13:54:49-checkEmpNo==>>Result【OK;】 - Exectue Total【42】ms 
+2023-11-07 13:54:49-GetPart==>>Execute Start
+2023-11-07 13:54:49-GetPart==>>Param【WO】【000000000000】
+2023-11-07 13:54:49-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【17】ms 
+2023-11-07 13:59:41-checkEmpNo==>>Execute Start
+2023-11-07 13:59:41-checkEmpNo==>>Param【EMP】【91201975】
+2023-11-07 13:59:41-checkEmpNo==>>Param【STATION】【TICO T3.04】
+2023-11-07 13:59:41-checkEmpNo==>>Result【OK;】 - Exectue Total【41】ms 
+2023-11-07 13:59:41-GetPart==>>Execute Start
+2023-11-07 13:59:41-GetPart==>>Param【WO】【002100037952】
+2023-11-07 13:59:41-GetPart==>>Result【85X627019000】 - Exectue Total【8】ms 
+2023-11-07 14:20:47-checkEmpNo==>>Execute Start
+2023-11-07 14:20:47-checkEmpNo==>>Param【EMP】【91201975】
+2023-11-07 14:20:47-checkEmpNo==>>Param【STATION】【TICO T3.04】
+2023-11-07 14:20:47-checkEmpNo==>>Result【OK;】 - Exectue Total【48】ms 
+2023-11-07 14:20:47-GetPart==>>Execute Start
+2023-11-07 14:20:47-GetPart==>>Param【WO】【002100037952】
+2023-11-07 14:20:47-GetPart==>>Result【85X627019000】 - Exectue Total【14】ms 
+2023-11-07 14:34:58-checkEmpNo==>>Execute Start
+2023-11-07 14:34:58-checkEmpNo==>>Param【EMP】【91201975】
+2023-11-07 14:34:58-checkEmpNo==>>Param【STATION】【T3.0】
+2023-11-07 14:34:58-checkEmpNo==>>Result【OK;】 - Exectue Total【41】ms 
+2023-11-07 14:34:58-GetPart==>>Execute Start
+2023-11-07 14:34:58-GetPart==>>Param【WO】【000000000000】
+2023-11-07 14:34:58-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【7】ms 
+2023-11-07 15:01:05-checkEmpNo==>>Execute Start
+2023-11-07 15:01:05-checkEmpNo==>>Param【EMP】【91201975】
+2023-11-07 15:01:05-checkEmpNo==>>Param【STATION】【T3.0】
+2023-11-07 15:01:05-checkEmpNo==>>Result【OK;】 - Exectue Total【52】ms 
+2023-11-07 15:01:05-GetPart==>>Execute Start
+2023-11-07 15:01:05-GetPart==>>Param【WO】【000000000000】
+2023-11-07 15:01:05-GetPart==>>Result【NG:工单错误未找到料号】 - Exectue Total【14】ms 
+2023-11-07 15:01:34-checkEmpNo==>>Execute Start
+2023-11-07 15:01:34-checkEmpNo==>>Param【EMP】【91201975】
+2023-11-07 15:01:34-checkEmpNo==>>Param【STATION】【T3.0】
+2023-11-07 15:01:34-checkEmpNo==>>Result【OK;】 - Exectue Total【46】ms 
+2023-11-07 15:01:34-GetPart==>>Execute Start
+2023-11-07 15:01:34-GetPart==>>Param【WO】【001100435227】
+2023-11-07 15:01:34-GetPart==>>Result【85X647012100】 - Exectue Total【13】ms 

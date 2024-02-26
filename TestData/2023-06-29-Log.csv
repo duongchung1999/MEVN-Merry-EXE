@@ -1,0 +1,2 @@
+﻿TestID,SN,Time,Result,,,,测试项目,检查Headset_Flag2,检查TP FW,Get_Headset_BD_From_MES,写HeadsetBD,比对HeadsetBD,进入TP测试模式,TP短路测试,TP基础值测试,TPTest,TP触摸后默认值测试,NTC_Check,+退出TP测试模式,充电电流,+恢复默认设置,,,,单位,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A,A,N/A,,,,数值下限,1,v14,N/A,N/A,N/A,N/A,EE FF FF FF FF AF,3100,N/A,N/A,20,N/A,0.4,N/A,,,,数值上限,8,v14,N/A,N/A,N/A,N/A,EE FF FF FF FF AF,4100,N/A,N/A,45,N/A,1,N/A,
+,TE_BZP_EN_TEST,01: 55: 09,False,7,v14,标准品,True,3417AA0A009A,True,EE FF FF FF FF AF,3138,False,,,True,,True,

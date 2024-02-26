@@ -1,0 +1,24 @@
+2023 11 23 15 30 56	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 23 15 30 56	Writedata:{"model":"VCS001-SMT","station":"T1.1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 23 15 30 56	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 23 15 30 56	1、False
+2023 11 23 16 29 51	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 23 16 29 51	Writedata:{"model":"VCS001-SMT","station":"T1.1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 23 16 29 51	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 23 16 29 51	1、False
+2023 11 23 16 31 51	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 23 16 31 51	Writedata:{"model":"VCS001-SMT","station":"T1.1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 23 16 31 51	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 23 16 31 51	2、False
+2023 11 23 16 40 49	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 23 16 40 49	Writedata:{"model":"VCS001-SMT","station":"T1.1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 23 16 40 49	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 23 16 40 49	1、False

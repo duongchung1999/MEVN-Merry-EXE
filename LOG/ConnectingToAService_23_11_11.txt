@@ -1,0 +1,366 @@
+2023 11 11 13 22 05	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 13 22 05	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 13 22 05	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 13 22 05	1、False
+2023 11 11 13 24 05	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 13 24 05	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 13 24 05	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 13 24 05	2、False
+2023 11 11 13 26 05	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 13 26 05	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 13 26 05	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 13 26 05	3、False
+2023 11 11 13 29 29	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 13 29 29	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 13 29 57	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 13 29 57	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 13 30 01	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 13 30 01	1、False
+2023 11 11 13 32 01	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 13 32 01	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 13 32 01	System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A socket operation was attempted to an unreachable host 10.175.5.59:8088
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 13 32 01	2、False
+2023 11 11 13 34 01	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 13 34 01	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 13 34 01	System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A socket operation was attempted to an unreachable host 10.175.5.59:8088
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 13 34 01	3、False
+2023 11 11 13 36 01	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 13 36 01	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 13 36 01	System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A socket operation was attempted to an unreachable host 10.175.5.59:8088
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 13 36 01	4、False
+2023 11 11 14 03 13	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 03 13	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 03 13	System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A socket operation was attempted to an unreachable host 10.175.5.59:8088
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 03 13	1、False
+2023 11 11 14 05 13	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 05 13	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 05 13	System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A socket operation was attempted to an unreachable host 10.175.5.59:8088
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 05 13	2、False
+2023 11 11 14 07 13	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 07 13	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 07 13	System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A socket operation was attempted to an unreachable host 10.175.5.59:8088
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 07 13	3、False
+2023 11 11 14 10 50	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 10 50	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 10 50	System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A socket operation was attempted to an unreachable host 10.175.5.59:8088
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 10 50	1、False
+2023 11 11 14 12 50	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 12 50	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 12 50	System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A socket operation was attempted to an unreachable host 10.175.5.59:8088
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 12 50	2、False
+2023 11 11 14 14 50	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 14 50	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 14 50	System.Net.WebException: Unable to connect to the remote server ---> System.Net.Sockets.SocketException: A socket operation was attempted to an unreachable host 10.175.5.59:8088
+   at System.Net.Sockets.Socket.DoConnect(EndPoint endPointSnapshot, SocketAddress socketAddress)
+   at System.Net.ServicePoint.ConnectSocketInternal(Boolean connectFailure, Socket s4, Socket s6, Socket& socket, IPAddress& address, ConnectSocketState state, IAsyncResult asyncResult, Exception& exception)
+   --- End of inner exception stack trace ---
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 14 50	3、False
+2023 11 11 14 16 50	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 16 50	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 16 54	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 16 54	4、False
+2023 11 11 14 18 54	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 18 54	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 18 58	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 18 58	5、False
+2023 11 11 14 20 58	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 20 58	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 21 02	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 21 02	6、False
+2023 11 11 14 23 02	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 23 02	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 23 06	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 23 06	7、False
+2023 11 11 14 25 06	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 25 06	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 25 10	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 25 10	8、False
+2023 11 11 14 27 10	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 27 10	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 27 14	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 27 14	9、False
+2023 11 11 14 29 14	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 29 14	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 29 19	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 29 19	10、False
+2023 11 11 14 31 19	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 31 19	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 31 23	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 31 23	11、False
+2023 11 11 14 33 23	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 33 23	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 33 27	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 33 27	12、False
+2023 11 11 14 35 27	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 35 27	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 35 31	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 35 31	13、False
+2023 11 11 14 42 08	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 42 08	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 42 12	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 42 12	14、False
+2023 11 11 14 44 12	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 44 12	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 44 16	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 44 16	15、False
+2023 11 11 14 46 16	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 46 16	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 46 20	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 46 20	16、False
+2023 11 11 14 48 20	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 48 20	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 48 24	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 48 24	17、False
+2023 11 11 14 50 24	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 50 24	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 50 28	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 50 28	18、False
+2023 11 11 14 52 28	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 52 28	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 52 32	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 52 32	19、False
+2023 11 11 14 54 32	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 54 32	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 54 36	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 54 36	20、False
+2023 11 11 14 56 36	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 56 36	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 56 40	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 56 40	21、False
+2023 11 11 14 58 40	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 14 58 40	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 14 58 44	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 14 58 44	22、False
+2023 11 11 15 00 44	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 15 00 44	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 15 00 48	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 15 00 48	23、False
+2023 11 11 15 02 48	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 15 02 48	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 15 02 52	System.Net.WebException: The operation has timed out
+   at System.Net.HttpWebRequest.GetRequestStream(TransportContext& context)
+   at System.Net.HttpWebRequest.GetRequestStream()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 89
+2023 11 11 15 02 52	24、False
+2023 11 11 15 04 52	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 15 04 52	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 15 04 52	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 15 04 52	25、False
+2023 11 11 15 06 52	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 15 06 52	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 15 06 52	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 15 06 52	26、False
+2023 11 11 15 08 52	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 15 08 52	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 15 08 52	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 15 08 52	27、False
+2023 11 11 15 10 52	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 15 10 52	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 15 10 52	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 15 10 52	28、False
+2023 11 11 15 12 52	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 15 12 52	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 15 12 52	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 15 12 52	29、False
+2023 11 11 15 14 52	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 15 14 52	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 15 14 52	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 15 14 52	30、False
+2023 11 11 15 16 52	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 15 16 52	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 15 16 52	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 15 16 52	31、False
+2023 11 11 15 18 52	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 15 18 52	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 15 18 52	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 15 18 52	32、False
+2023 11 11 15 20 52	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 15 20 52	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 15 20 52	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 15 20 52	33、False
+2023 11 11 15 22 52	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 15 22 52	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 15 22 52	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 15 22 52	34、False
+2023 11 11 15 40 24	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 15 40 24	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 15 40 24	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 15 40 24	1、False
+2023 11 11 15 42 24	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 15 42 24	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 15 42 24	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 15 42 24	2、False
+2023 11 11 15 44 24	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 15 44 24	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 15 44 24	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 15 44 24	3、False
+2023 11 11 15 46 24	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 15 46 24	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 15 46 24	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 15 46 24	4、False
+2023 11 11 15 48 24	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 15 48 24	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 15 48 24	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 15 48 24	5、False
+2023 11 11 15 50 24	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 15 50 24	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 15 50 24	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 15 50 24	6、False
+2023 11 11 16 04 48	URL:http://10.175.5.59:8088/Computer_status/Computer_test_upload
+2023 11 11 16 04 48	Writedata:{"model":"IHT911","station":"Test1","machineName": "VNML04OF-000406","mesFlag": "0","computer_Configuration":"True"}
+2023 11 11 16 04 48	System.Net.WebException: The remote server returned an error: (404) Not Found.
+   at System.Net.HttpWebRequest.GetResponse()
+   at ConnectToserver.HttpPost(String url, String Writedata, String Method, String& error) in C:\Users\CH180265\Desktop\test\MerryTest 2023.04.05\Z_AllDll\Config_ini\ConnectToServer.cs:line 91
+2023 11 11 16 04 48	7、False
